@@ -13,5 +13,10 @@
     "name": "facebook",
     "filename": "logo/facebook.svg",
     "tags": ["facebook", "Facebook", "FaceBook"]
+  },
+  {
+    "name": "Dribbble",
+    "filename": "logo/dribbble.svg",
+    "tags": ["Dribbble", "dribbble", "social", "social media"]
   }
 ]
