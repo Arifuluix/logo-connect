@@ -4,4 +4,9 @@
     "filename": "apple.svg",
     "tags": ["Apple", "apple"]
   }
+  {
+    "name": "Apple TV",
+    "filename": "apple.svg",
+    "tags": ["Apple TV", "apple tv", "tv"]
+  }
 ]
