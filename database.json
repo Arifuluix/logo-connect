@@ -1,12 +1,12 @@
 [
   {
     "name": "Apple",
-    "filename": "logo/apple.svg",
+    "filename": "logo/apple/apple.svg",
     "tags": ["Apple", "apple"]
   },
   {
     "name": "Apple TV",
-    "filename": "logo/apple tv.svg",
+    "filename": "logo/apple/apple-tv.svg",
     "tags": ["Apple TV", "apple tv", "tv"]
   },
   {
