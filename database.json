@@ -8,5 +8,10 @@
     "name": "Apple TV",
     "filename": "logo/apple tv.svg",
     "tags": ["Apple TV", "apple tv", "tv"]
+  },
+  {
+    "name": "facebook",
+    "filename": "logo/facebook.svg",
+    "tags": ["facebook", "Facebook", "FaceBook"]
   }
 ]
