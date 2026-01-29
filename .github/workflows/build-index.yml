@@ -6,8 +6,6 @@ on:
     paths:
       - "assets/**"
       - "scripts/**"
-    paths-ignore:
-      - "assets/index.json"
 
   workflow_dispatch:
 
