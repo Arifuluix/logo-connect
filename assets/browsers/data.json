@@ -15,12 +15,12 @@
       "brand": "microsoft",
       "tags": ["edge", "microsoft", "browser"]
     },
-     {
-      "id": "firefox",
-      "name": "firefox",
+    {
+      "id": "mozilla-firefox",
+      "name": "Firefox",
       "filename": "assets/browsers/firefox.svg",
-      "brand": "microsoft",
-      "tags": ["firefox", "browser"]
+      "brand": "mozilla",
+      "tags": ["firefox", "mozilla", "browser"]
     }
   ]
 }
