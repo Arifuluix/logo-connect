@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths:
       - "assets/**"
-      - "scripts/**"
+      - "Scripts/**"
 
   workflow_dispatch:
 
@@ -25,7 +25,7 @@ jobs:
           node-version: 18
 
       - name: Build index.json
-        run: node scripts/build-index.js
+        run: node Scripts/build-index.js
 
       - name: Commit index.json
         run: |
