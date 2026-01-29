@@ -2,13 +2,14 @@ name: Build master index.json
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - "assets/**"
       - "scripts/**"
     paths-ignore:
       - "assets/index.json"
+
+  workflow_dispatch:   # 👈 THIS IS THE KEY
 
 permissions:
   contents: write
@@ -32,5 +33,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add assets/index.json
-          git diff --cached --quiet || git commit -m "chore: auto-generate index.json"
+          git diff --cached --quiet || git commit -m "chore: rebuild index.json"
           git push
