@@ -2,20 +2,25 @@ name: Build master index.json
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "assets/**"
       - "scripts/**"
+    paths-ignore:
+      - "assets/index.json"
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 18
 
@@ -27,5 +32,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add assets/index.json
-          git commit -m "chore: auto-generate index.json" || echo "No changes"
+          git diff --cached --quiet || git commit -m "chore: auto-generate index.json"
           git push
