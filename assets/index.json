@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-01-29T14:29:25.902Z",
+  "generatedAt": "2026-01-29T14:29:53.372Z",
   "items": [
     {
       "id": "google-chrome",
@@ -161,7 +161,7 @@
     {
       "id": "google-meet",
       "name": "Google Meet",
-      "filename": "assets/messengers/google meet.svg",
+      "filename": "assets/messengers/google_meet.svg",
       "brand": "google",
       "tags": [
         "google meet",
