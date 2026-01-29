@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-01-29T05:59:42.844Z",
+  "items": [
+    {
+      "id": "google-chrome",
+      "name": "Google Chrome",
+      "filename": "assets/browsers/chrome.svg",
+      "brand": "google",
+      "tags": [
+        "chrome",
+        "google",
+        "browser"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "microsoft-edge",
+      "name": "Microsoft Edge",
+      "filename": "assets/browsers/edge.svg",
+      "brand": "microsoft",
+      "tags": [
+        "edge",
+        "microsoft",
+        "browser"
+      ],
+      "category": "browser"
+    }
+  ]
+}
