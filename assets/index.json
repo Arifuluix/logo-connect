@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-01-29T07:35:23.697Z",
+  "generatedAt": "2026-01-29T07:47:43.332Z",
   "items": [
     {
       "id": "google-chrome",
@@ -10,7 +10,8 @@
       "tags": [
         "chrome",
         "google",
-        "browser"
+        "browser",
+        "web"
       ],
       "category": "browser"
     },
@@ -22,7 +23,8 @@
       "tags": [
         "edge",
         "microsoft",
-        "browser"
+        "browser",
+        "web"
       ],
       "category": "browser"
     },
@@ -34,7 +36,86 @@
       "tags": [
         "firefox",
         "mozilla",
+        "browser",
+        "web"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "internet-explorer",
+      "name": "Internet Explorer",
+      "filename": "assets/browsers/ie.svg",
+      "brand": "microsoft",
+      "tags": [
+        "internet explorer",
+        "ie",
+        "browser",
+        "legacy"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "opera",
+      "name": "Opera",
+      "filename": "assets/browsers/opera.svg",
+      "brand": "opera",
+      "tags": [
+        "opera",
+        "browser",
+        "web"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "safari",
+      "name": "Safari",
+      "filename": "assets/browsers/safari.svg",
+      "brand": "apple",
+      "tags": [
+        "safari",
+        "apple",
+        "browser",
+        "macos",
+        "ios"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "tor-browser",
+      "name": "Tor Browser",
+      "filename": "assets/browsers/tor.svg",
+      "brand": "tor",
+      "tags": [
+        "tor",
+        "privacy",
+        "anonymous",
         "browser"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "uc-browser",
+      "name": "UC Browser",
+      "filename": "assets/browsers/uc.svg",
+      "brand": "ucweb",
+      "tags": [
+        "uc",
+        "uc browser",
+        "browser",
+        "mobile"
+      ],
+      "category": "browser"
+    },
+    {
+      "id": "yandex-browser",
+      "name": "Yandex Browser",
+      "filename": "assets/browsers/yandex.svg",
+      "brand": "yandex",
+      "tags": [
+        "yandex",
+        "browser",
+        "web",
+        "russia"
       ],
       "category": "browser"
     }
