@@ -9,7 +9,8 @@
       "tags": [
         "chrome",
         "google",
-        "browser"
+        "browser",
+        "web"
       ]
     },
     {
@@ -20,7 +21,8 @@
       "tags": [
         "edge",
         "microsoft",
-        "browser"
+        "browser",
+        "web"
       ]
     },
     {
@@ -31,7 +33,80 @@
       "tags": [
         "firefox",
         "mozilla",
+        "browser",
+        "web"
+      ]
+    },
+    {
+      "id": "internet-explorer",
+      "name": "Internet Explorer",
+      "filename": "assets/browsers/ie.svg",
+      "brand": "microsoft",
+      "tags": [
+        "internet explorer",
+        "ie",
+        "browser",
+        "legacy"
+      ]
+    },
+    {
+      "id": "opera",
+      "name": "Opera",
+      "filename": "assets/browsers/opera.svg",
+      "brand": "opera",
+      "tags": [
+        "opera",
+        "browser",
+        "web"
+      ]
+    },
+    {
+      "id": "safari",
+      "name": "Safari",
+      "filename": "assets/browsers/safari.svg",
+      "brand": "apple",
+      "tags": [
+        "safari",
+        "apple",
+        "browser",
+        "macos",
+        "ios"
+      ]
+    },
+    {
+      "id": "tor-browser",
+      "name": "Tor Browser",
+      "filename": "assets/browsers/tor.svg",
+      "brand": "tor",
+      "tags": [
+        "tor",
+        "privacy",
+        "anonymous",
         "browser"
+      ]
+    },
+    {
+      "id": "uc-browser",
+      "name": "UC Browser",
+      "filename": "assets/browsers/uc.svg",
+      "brand": "ucweb",
+      "tags": [
+        "uc",
+        "uc browser",
+        "browser",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yandex-browser",
+      "name": "Yandex Browser",
+      "filename": "assets/browsers/yandex.svg",
+      "brand": "yandex",
+      "tags": [
+        "yandex",
+        "browser",
+        "web",
+        "russia"
       ]
     }
   ]
