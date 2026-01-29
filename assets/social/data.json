@@ -1,1 +1,228 @@
-
+{
+  "category": "social",
+  "items": [
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "filename": "assets/social/Facebook.svg",
+      "brand": "meta",
+      "tags": [
+        "facebook",
+        "meta",
+        "social",
+        "network"
+      ]
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "filename": "assets/social/instagram.svg",
+      "brand": "meta",
+      "tags": [
+        "instagram",
+        "meta",
+        "social",
+        "photo"
+      ]
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "filename": "assets/social/twitter.svg",
+      "brand": "twitter",
+      "tags": [
+        "twitter",
+        "social",
+        "x"
+      ]
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "filename": "assets/social/linkedin.svg",
+      "brand": "linkedin",
+      "tags": [
+        "linkedin",
+        "professional",
+        "social",
+        "jobs"
+      ]
+    },
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "filename": "assets/social/snapchat.svg",
+      "brand": "snapchat",
+      "tags": [
+        "snapchat",
+        "social",
+        "chat"
+      ]
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "filename": "assets/social/tiktok.svg",
+      "brand": "tiktok",
+      "tags": [
+        "tiktok",
+        "social",
+        "video"
+      ]
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "filename": "assets/social/reddit.svg",
+      "brand": "reddit",
+      "tags": [
+        "reddit",
+        "social",
+        "community"
+      ]
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "filename": "assets/social/pinterest.svg",
+      "brand": "pinterest",
+      "tags": [
+        "pinterest",
+        "social",
+        "design"
+      ]
+    },
+    {
+      "id": "tumblr",
+      "name": "Tumblr",
+      "filename": "assets/social/tumbler.svg",
+      "brand": "tumblr",
+      "tags": [
+        "tumblr",
+        "social",
+        "blog"
+      ]
+    },
+    {
+      "id": "vk",
+      "name": "VK",
+      "filename": "assets/social/vk.svg",
+      "brand": "vk",
+      "tags": [
+        "vk",
+        "social",
+        "russia"
+      ]
+    },
+    {
+      "id": "weibo",
+      "name": "Weibo",
+      "filename": "assets/social/weibo.svg",
+      "brand": "weibo",
+      "tags": [
+        "weibo",
+        "social",
+        "china"
+      ]
+    },
+    {
+      "id": "quora",
+      "name": "Quora",
+      "filename": "assets/social/quora.svg",
+      "brand": "quora",
+      "tags": [
+        "quora",
+        "questions",
+        "social"
+      ]
+    },
+    {
+      "id": "stack-overflow",
+      "name": "Stack Overflow",
+      "filename": "assets/social/stack_overflow.svg",
+      "brand": "stackoverflow",
+      "tags": [
+        "stack overflow",
+        "developer",
+        "community"
+      ]
+    },
+    {
+      "id": "patreon",
+      "name": "Patreon",
+      "filename": "assets/social/patreon.svg",
+      "brand": "patreon",
+      "tags": [
+        "patreon",
+        "creator",
+        "support"
+      ]
+    },
+    {
+      "id": "askfm",
+      "name": "Ask.fm",
+      "filename": "assets/social/askfm.svg",
+      "brand": "askfm",
+      "tags": [
+        "askfm",
+        "questions",
+        "social"
+      ]
+    },
+    {
+      "id": "badoo",
+      "name": "Badoo",
+      "filename": "assets/social/badoo.svg",
+      "brand": "badoo",
+      "tags": [
+        "badoo",
+        "dating",
+        "social"
+      ]
+    },
+    {
+      "id": "tinder",
+      "name": "Tinder",
+      "filename": "assets/social/tinder.svg",
+      "brand": "tinder",
+      "tags": [
+        "tinder",
+        "dating",
+        "social"
+      ]
+    },
+    {
+      "id": "foursquare",
+      "name": "Foursquare",
+      "filename": "assets/social/foursquare.svg",
+      "brand": "foursquare",
+      "tags": [
+        "foursquare",
+        "places",
+        "social"
+      ]
+    },
+    {
+      "id": "ok",
+      "name": "OK",
+      "filename": "assets/social/OK.svg",
+      "brand": "ok",
+      "tags": [
+        "ok",
+        "odnoklassniki",
+        "social"
+      ]
+    },
+    {
+      "id": "qzone",
+      "name": "Qzone",
+      "filename": "assets/social/qzone.svg",
+      "brand": "tencent",
+      "tags": [
+        "qzone",
+        "social",
+        "china"
+      ]
+    }
+  ]
+}
