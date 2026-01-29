@@ -1,0 +1,15 @@
+{
+    "name": "logo-connect",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Logo collection with automated index generation",
+    "scripts": {
+        "build": "node Scripts/build-index.js"
+    },
+    "keywords": [
+        "logos",
+        "assets"
+    ],
+    "author": "",
+    "license": "MIT"
+}
