@@ -1,5 +1,6 @@
 {
-  "category": "browser",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-29T06:56:30.870Z",
   "items": [
     {
       "id": "google-chrome",
@@ -10,7 +11,8 @@
         "chrome",
         "google",
         "browser"
-      ]
+      ],
+      "category": "browser"
     },
     {
       "id": "microsoft-edge",
@@ -21,7 +23,8 @@
         "edge",
         "microsoft",
         "browser"
-      ]
+      ],
+      "category": "browser"
     },
     {
       "id": "mozilla-firefox",
@@ -32,7 +35,8 @@
         "firefox",
         "mozilla",
         "browser"
-      ]
+      ],
+      "category": "browser"
     }
   ]
 }
