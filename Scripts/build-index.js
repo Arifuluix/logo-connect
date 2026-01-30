@@ -1,36 +1,69 @@
-import fs from "fs";
-import path from "path";
+import fs from 'fs';
+import path from 'path';
 
-const ASSETS_DIR = "assets";
-const OUTPUT = path.join(ASSETS_DIR, "index.json");
+const ASSETS_DIR = path.resolve('assets');
+const OUTPUT_FILE = path.resolve('assets/index.json');
 
-let items = [];
-let ids = new Set();
+const results = [];
 
-for (const folder of fs.readdirSync(ASSETS_DIR)) {
-    const dataFile = path.join(ASSETS_DIR, folder, "data.json");
-    if (!fs.existsSync(dataFile)) continue;
+function walk(dir) {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
 
-    const data = JSON.parse(fs.readFileSync(dataFile, "utf8"));
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
 
-    for (const item of data.items) {
-        if (ids.has(item.id)) {
-            throw new Error(`Duplicate id: ${item.id}`);
-        }
-        ids.add(item.id);
-
-        items.push({
-            ...item,
-            category: data.category
-        });
+    if (entry.isDirectory()) {
+      walk(fullPath);
     }
+
+    if (entry.isFile() && entry.name === 'data.json') {
+      processDataFile(fullPath);
+    }
+  }
 }
 
-const index = {
-    version: "1.0.0",
-    generatedAt: new Date().toISOString(),
-    items
-};
+function processDataFile(filePath) {
+  const raw = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  const baseDir = path.dirname(filePath);
 
-fs.writeFileSync(OUTPUT, JSON.stringify(index, null, 2));
-console.log("✅ index.json generated");
+  const normalized = {
+    id: raw.id,
+    name: raw.name,
+    category: raw.category || 'uncategorized',
+    brand: raw.brand || null,
+    tags: raw.tags || [],
+    assets: {}
+  };
+
+  if (raw.assets) {
+    for (const [key, value] of Object.entries(raw.assets)) {
+      normalized.assets[key] = path
+        .join(baseDir, value)
+        .replace(/\\/g, '/');
+    }
+  }
+
+  if (raw.filename && !normalized.assets.mark) {
+    normalized.assets.mark = raw.filename;
+  }
+
+  results.push(normalized);
+}
+
+walk(ASSETS_DIR);
+
+results.sort((a, b) => a.name.localeCompare(b.name));
+
+fs.writeFileSync(
+  OUTPUT_FILE,
+  JSON.stringify(
+    {
+      version: new Date().toISOString(),
+      items: results
+    },
+    null,
+    2
+  )
+);
+
+console.log(`index.json generated with ${results.length} logos`);
