@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-01-30T04:05:35.722Z",
+  "generatedAt": "2026-01-30T04:05:50.475Z",
   "items": [
     {
       "id": "askfm",
@@ -31,21 +31,6 @@
       "brand": "badoo"
     },
     {
-      "id": "discord",
-      "name": "Discord",
-      "category": "messenger",
-      "tags": [
-        "discord",
-        "chat",
-        "messenger",
-        "community"
-      ],
-      "assets": {
-        "mark": "assets/messengers/discord.svg"
-      },
-      "brand": "discord"
-    },
-    {
       "id": "facebook",
       "name": "Facebook",
       "category": "social",
@@ -59,36 +44,6 @@
         "mark": "assets/social/Facebook.svg"
       },
       "brand": "meta"
-    },
-    {
-      "id": "facebook-messenger",
-      "name": "Facebook Messenger",
-      "category": "messenger",
-      "tags": [
-        "facebook",
-        "messenger",
-        "meta",
-        "chat"
-      ],
-      "assets": {
-        "mark": "assets/messengers/fb_messenger.svg"
-      },
-      "brand": "meta"
-    },
-    {
-      "id": "facetime",
-      "name": "FaceTime",
-      "category": "messenger",
-      "tags": [
-        "facetime",
-        "apple",
-        "video",
-        "messenger"
-      ],
-      "assets": {
-        "mark": "assets/messengers/facetime.svg"
-      },
-      "brand": "apple"
     },
     {
       "id": "foursquare",
@@ -116,36 +71,6 @@
       "assets": {
         "mark": "assets/browsers/chrome/mark.svg",
         "full": "assets/browsers/chrome/full.svg"
-      },
-      "brand": "google"
-    },
-    {
-      "id": "google-hangouts",
-      "name": "Google Hangouts",
-      "category": "messenger",
-      "tags": [
-        "hangouts",
-        "google",
-        "messenger",
-        "chat"
-      ],
-      "assets": {
-        "mark": "assets/messengers/google_hangouts.svg"
-      },
-      "brand": "google"
-    },
-    {
-      "id": "google-meet",
-      "name": "Google Meet",
-      "category": "messenger",
-      "tags": [
-        "google meet",
-        "video",
-        "messenger",
-        "meeting"
-      ],
-      "assets": {
-        "mark": "assets/messengers/google_meet.svg"
       },
       "brand": "google"
     },
@@ -180,36 +105,6 @@
       "brand": "microsoft"
     },
     {
-      "id": "kakao-talk",
-      "name": "KakaoTalk",
-      "category": "messenger",
-      "tags": [
-        "kakao",
-        "chat",
-        "messenger",
-        "korea"
-      ],
-      "assets": {
-        "mark": "assets/messengers/kakao_talk.svg"
-      },
-      "brand": "kakao"
-    },
-    {
-      "id": "line",
-      "name": "LINE",
-      "category": "messenger",
-      "tags": [
-        "line",
-        "chat",
-        "messenger",
-        "japan"
-      ],
-      "assets": {
-        "mark": "assets/messengers/line.svg"
-      },
-      "brand": "line"
-    },
-    {
       "id": "linkedin",
       "name": "LinkedIn",
       "category": "social",
@@ -223,21 +118,6 @@
         "mark": "assets/social/linkedin.svg"
       },
       "brand": "linkedin"
-    },
-    {
-      "id": "messages",
-      "name": "Messages",
-      "category": "messenger",
-      "tags": [
-        "messages",
-        "sms",
-        "imessage",
-        "messenger"
-      ],
-      "assets": {
-        "mark": "assets/messengers/messages.svg"
-      },
-      "brand": "apple"
     },
     {
       "id": "microsoft-edge",
@@ -384,36 +264,6 @@
       "brand": "apple"
     },
     {
-      "id": "skype",
-      "name": "Skype",
-      "category": "messenger",
-      "tags": [
-        "skype",
-        "video",
-        "messenger",
-        "microsoft"
-      ],
-      "assets": {
-        "mark": "assets/messengers/ms_skype.svg"
-      },
-      "brand": "microsoft"
-    },
-    {
-      "id": "slack",
-      "name": "Slack",
-      "category": "messenger",
-      "tags": [
-        "slack",
-        "team",
-        "chat",
-        "messenger"
-      ],
-      "assets": {
-        "mark": "assets/messengers/slack.svg"
-      },
-      "brand": "slack"
-    },
-    {
       "id": "snapchat",
       "name": "Snapchat",
       "category": "social",
@@ -428,21 +278,6 @@
       "brand": "snapchat"
     },
     {
-      "id": "spectrum",
-      "name": "Spectrum",
-      "category": "messenger",
-      "tags": [
-        "spectrum",
-        "chat",
-        "community",
-        "messenger"
-      ],
-      "assets": {
-        "mark": "assets/messengers/spectrum.svg"
-      },
-      "brand": "spectrum"
-    },
-    {
       "id": "stack-overflow",
       "name": "Stack Overflow",
       "category": "social",
@@ -455,21 +290,6 @@
         "mark": "assets/social/stack_overflow.svg"
       },
       "brand": "stackoverflow"
-    },
-    {
-      "id": "telegram",
-      "name": "Telegram",
-      "category": "messenger",
-      "tags": [
-        "telegram",
-        "chat",
-        "messenger",
-        "privacy"
-      ],
-      "assets": {
-        "mark": "assets/messengers/telegram.svg"
-      },
-      "brand": "telegram"
     },
     {
       "id": "tiktok",
@@ -558,21 +378,6 @@
       "brand": "ucweb"
     },
     {
-      "id": "viber",
-      "name": "Viber",
-      "category": "messenger",
-      "tags": [
-        "viber",
-        "chat",
-        "messenger",
-        "voip"
-      ],
-      "assets": {
-        "mark": "assets/messengers/viber.svg"
-      },
-      "brand": "viber"
-    },
-    {
       "id": "vk",
       "name": "VK",
       "category": "social",
@@ -585,21 +390,6 @@
         "mark": "assets/social/vk.svg"
       },
       "brand": "vk"
-    },
-    {
-      "id": "wechat",
-      "name": "WeChat",
-      "category": "messenger",
-      "tags": [
-        "wechat",
-        "chat",
-        "messenger",
-        "china"
-      ],
-      "assets": {
-        "mark": "assets/messengers/wechat.svg"
-      },
-      "brand": "tencent"
     },
     {
       "id": "weibo",
@@ -616,21 +406,6 @@
       "brand": "weibo"
     },
     {
-      "id": "whatsapp",
-      "name": "WhatsApp",
-      "category": "messenger",
-      "tags": [
-        "whatsapp",
-        "chat",
-        "messenger",
-        "meta"
-      ],
-      "assets": {
-        "mark": "assets/messengers/whatsapp.svg"
-      },
-      "brand": "meta"
-    },
-    {
       "id": "yandex-browser",
       "name": "Yandex Browser",
       "category": "browser",
@@ -644,21 +419,6 @@
         "mark": "assets/browsers/yandex.svg"
       },
       "brand": "yandex"
-    },
-    {
-      "id": "zoom",
-      "name": "Zoom",
-      "category": "messenger",
-      "tags": [
-        "zoom",
-        "video",
-        "meeting",
-        "messenger"
-      ],
-      "assets": {
-        "mark": "assets/messengers/zoom.svg"
-      },
-      "brand": "zoom"
     }
   ]
 }
