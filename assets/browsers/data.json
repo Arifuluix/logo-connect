@@ -2,18 +2,6 @@
   "category": "browser",
   "items": [
     {
-      "id": "google-chrome",
-      "name": "Google Chrome",
-      "filename": "assets/browsers/chrome.svg",
-      "brand": "google",
-      "tags": [
-        "chrome",
-        "google",
-        "browser",
-        "web"
-      ]
-    },
-    {
       "id": "microsoft-edge",
       "name": "Microsoft Edge",
       "filename": "assets/browsers/edge.svg",
