@@ -4,27 +4,65 @@ import path from "path";
 const ASSETS_DIR = "assets";
 const OUTPUT = path.join(ASSETS_DIR, "index.json");
 
-let items = [];
-let ids = new Set();
-
-for (const folder of fs.readdirSync(ASSETS_DIR)) {
-    const dataFile = path.join(ASSETS_DIR, folder, "data.json");
-    if (!fs.existsSync(dataFile)) continue;
-
-    const data = JSON.parse(fs.readFileSync(dataFile, "utf8"));
-
-    for (const item of data.items) {
-        if (ids.has(item.id)) {
-            throw new Error(`Duplicate id: ${item.id}`);
+function findDataFiles(dir, results = []) {
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    
+    for (const entry of entries) {
+        const fullPath = path.join(dir, entry.name);
+        
+        if (entry.isDirectory()) {
+            findDataFiles(fullPath, results);
+        } else if (entry.isFile() && entry.name === "data.json") {
+            results.push(fullPath);
         }
-        ids.add(item.id);
-
-        items.push({
-            ...item,
-            category: data.category
-        });
     }
+    
+    return results;
 }
+
+function normalizeAssets(item, dataDir) {
+    const assets = {};
+    
+    if (item.assets) {
+        for (const [key, value] of Object.entries(item.assets)) {
+            assets[key] = path.join(dataDir, value).replace(/\\/g, "/");
+        }
+    } else if (item.filename) {
+        assets.mark = item.filename;
+    }
+    
+    return assets;
+}
+
+const dataFiles = findDataFiles(ASSETS_DIR);
+const items = [];
+const ids = new Set();
+
+for (const dataFile of dataFiles) {
+    const dataDir = path.dirname(dataFile);
+    const data = JSON.parse(fs.readFileSync(dataFile, "utf8"));
+    
+    if (ids.has(data.id)) {
+        throw new Error(`Duplicate id: ${data.id}`);
+    }
+    ids.add(data.id);
+    
+    const normalized = {
+        id: data.id,
+        name: data.name,
+        category: data.category,
+        tags: data.tags || [],
+        assets: normalizeAssets(data, dataDir)
+    };
+    
+    if (data.brand) {
+        normalized.brand = data.brand;
+    }
+    
+    items.push(normalized);
+}
+
+items.sort((a, b) => a.name.localeCompare(b.name));
 
 const index = {
     version: "1.0.0",
@@ -33,4 +71,4 @@ const index = {
 };
 
 fs.writeFileSync(OUTPUT, JSON.stringify(index, null, 2));
-console.log("✅ index.json generated");
+console.log(`✅ index.json generated with ${items.length} logos`);
