@@ -1,76 +1,1021 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-01-30T03:50:25.717Z",
+  "generatedAt": "2026-01-30T04:02:42.473Z",
   "items": [
+    {
+      "id": "adobe-dreamweaver",
+      "name": "Adobe Dreamweaver",
+      "category": "coding",
+      "tags": [
+        "adobe",
+        "dreamweaver",
+        "code editor",
+        "web design"
+      ],
+      "assets": {
+        "mark": "assets/coding/adobe_dreamweaver.svg"
+      },
+      "brand": "adobe"
+    },
+    {
+      "id": "angular",
+      "name": "Angular",
+      "category": "coding",
+      "tags": [
+        "angular",
+        "javascript",
+        "framework",
+        "frontend"
+      ],
+      "assets": {
+        "mark": "assets/coding/angular.svg"
+      },
+      "brand": "google"
+    },
+    {
+      "id": "jb-appcode",
+      "name": "AppCode",
+      "category": "coding",
+      "tags": [
+        "appcode",
+        "jetbrains",
+        "ide",
+        "ios"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_appcode.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "askfm",
+      "name": "Ask.fm",
+      "category": "social",
+      "tags": [
+        "askfm",
+        "questions",
+        "social"
+      ],
+      "assets": {
+        "mark": "assets/social/askfm.svg"
+      },
+      "brand": "askfm"
+    },
+    {
+      "id": "atom",
+      "name": "Atom",
+      "category": "coding",
+      "tags": [
+        "atom",
+        "code editor",
+        "text editor",
+        "github"
+      ],
+      "assets": {
+        "mark": "assets/coding/atom.svg"
+      },
+      "brand": "github"
+    },
+    {
+      "id": "badoo",
+      "name": "Badoo",
+      "category": "social",
+      "tags": [
+        "badoo",
+        "dating",
+        "social"
+      ],
+      "assets": {
+        "mark": "assets/social/badoo.svg"
+      },
+      "brand": "badoo"
+    },
+    {
+      "id": "bitbucket",
+      "name": "Bitbucket",
+      "category": "coding",
+      "tags": [
+        "bitbucket",
+        "git",
+        "repository",
+        "atlassian"
+      ],
+      "assets": {
+        "mark": "assets/coding/bitbucket.svg"
+      },
+      "brand": "atlassian"
+    },
+    {
+      "id": "c-sharp",
+      "name": "C#",
+      "category": "coding",
+      "tags": [
+        "c#",
+        "csharp",
+        ".net",
+        "programming language"
+      ],
+      "assets": {
+        "mark": "assets/coding/c_sharp.svg"
+      },
+      "brand": "microsoft"
+    },
+    {
+      "id": "c-plus-plus",
+      "name": "C++",
+      "category": "coding",
+      "tags": [
+        "c++",
+        "cpp",
+        "programming language",
+        "backend"
+      ],
+      "assets": {
+        "mark": "assets/coding/c_plus_plus.svg"
+      },
+      "brand": "cpp"
+    },
+    {
+      "id": "jb-clion",
+      "name": "CLion",
+      "category": "coding",
+      "tags": [
+        "clion",
+        "jetbrains",
+        "ide",
+        "c++"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_clion.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "codepen",
+      "name": "CodePen",
+      "category": "coding",
+      "tags": [
+        "codepen",
+        "frontend",
+        "sandbox",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/coding/codepen.svg"
+      },
+      "brand": "codepen"
+    },
+    {
+      "id": "css-3",
+      "name": "CSS 3",
+      "category": "coding",
+      "tags": [
+        "css",
+        "css3",
+        "stylesheet",
+        "frontend"
+      ],
+      "assets": {
+        "mark": "assets/coding/css_3.svg"
+      },
+      "brand": "w3c"
+    },
+    {
+      "id": "jb-datagrip",
+      "name": "DataGrip",
+      "category": "coding",
+      "tags": [
+        "datagrip",
+        "jetbrains",
+        "database",
+        "ide"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_datagrip.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "category": "messenger",
+      "tags": [
+        "discord",
+        "chat",
+        "messenger",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/messengers/discord.svg"
+      },
+      "brand": "discord"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "coding",
+      "tags": [
+        "docker",
+        "containers",
+        "devops",
+        "infrastructure"
+      ],
+      "assets": {
+        "mark": "assets/coding/docker.svg"
+      },
+      "brand": "docker"
+    },
+    {
+      "id": "jb-dotcover",
+      "name": "dotCover",
+      "category": "coding",
+      "tags": [
+        "dotcover",
+        "jetbrains",
+        "coverage",
+        ".net"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_dotcover.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "jb-dotmemory",
+      "name": "dotMemory",
+      "category": "coding",
+      "tags": [
+        "dotmemory",
+        "jetbrains",
+        "profiler",
+        ".net"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_dotmemory.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "jb-dotpeek",
+      "name": "dotPeek",
+      "category": "coding",
+      "tags": [
+        "dotpeek",
+        "jetbrains",
+        "decompiler",
+        ".net"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_dotpeek.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "jb-dottrace",
+      "name": "dotTrace",
+      "category": "coding",
+      "tags": [
+        "dottrace",
+        "jetbrains",
+        "profiler",
+        ".net"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_dottrace.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "drupal",
+      "name": "Drupal",
+      "category": "coding",
+      "tags": [
+        "drupal",
+        "cms",
+        "php",
+        "web"
+      ],
+      "assets": {
+        "mark": "assets/coding/drupal.svg"
+      },
+      "brand": "drupal"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "category": "social",
+      "tags": [
+        "facebook",
+        "meta",
+        "social",
+        "network"
+      ],
+      "assets": {
+        "mark": "assets/social/Facebook.svg"
+      },
+      "brand": "meta"
+    },
+    {
+      "id": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "category": "messenger",
+      "tags": [
+        "facebook",
+        "messenger",
+        "meta",
+        "chat"
+      ],
+      "assets": {
+        "mark": "assets/messengers/fb_messenger.svg"
+      },
+      "brand": "meta"
+    },
+    {
+      "id": "facetime",
+      "name": "FaceTime",
+      "category": "messenger",
+      "tags": [
+        "facetime",
+        "apple",
+        "video",
+        "messenger"
+      ],
+      "assets": {
+        "mark": "assets/messengers/facetime.svg"
+      },
+      "brand": "apple"
+    },
+    {
+      "id": "foursquare",
+      "name": "Foursquare",
+      "category": "social",
+      "tags": [
+        "foursquare",
+        "places",
+        "social"
+      ],
+      "assets": {
+        "mark": "assets/social/foursquare.svg"
+      },
+      "brand": "foursquare"
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "coding",
+      "tags": [
+        "git",
+        "version control",
+        "vcs",
+        "cli"
+      ],
+      "assets": {
+        "mark": "assets/coding/git.svg"
+      },
+      "brand": "git"
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "category": "coding",
+      "tags": [
+        "go",
+        "golang",
+        "programming language",
+        "backend"
+      ],
+      "assets": {
+        "mark": "assets/coding/go.svg"
+      },
+      "brand": "google"
+    },
+    {
+      "id": "jb-goland",
+      "name": "GoLand",
+      "category": "coding",
+      "tags": [
+        "goland",
+        "jetbrains",
+        "ide",
+        "go"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_goland.svg"
+      },
+      "brand": "jetbrains"
+    },
     {
       "id": "google-chrome",
       "name": "Google Chrome",
-      "filename": "assets/browsers/chrome.svg",
-      "brand": "google",
+      "category": "browser",
       "tags": [
         "chrome",
+        "browser",
+        "google"
+      ],
+      "assets": {
+        "mark": "assets/browsers/chrome/mark.svg",
+        "full": "assets/browsers/chrome/full.svg"
+      },
+      "brand": "google"
+    },
+    {
+      "id": "google-hangouts",
+      "name": "Google Hangouts",
+      "category": "messenger",
+      "tags": [
+        "hangouts",
         "google",
-        "browser",
-        "web"
+        "messenger",
+        "chat"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/messengers/google_hangouts.svg"
+      },
+      "brand": "google"
     },
     {
-      "id": "microsoft-edge",
-      "name": "Microsoft Edge",
-      "filename": "assets/browsers/edge.svg",
-      "brand": "microsoft",
+      "id": "google-meet",
+      "name": "Google Meet",
+      "category": "messenger",
       "tags": [
-        "edge",
-        "microsoft",
-        "browser",
-        "web"
+        "google meet",
+        "video",
+        "messenger",
+        "meeting"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/messengers/google_meet.svg"
+      },
+      "brand": "google"
     },
     {
-      "id": "mozilla-firefox",
-      "name": "Mozilla Firefox",
-      "filename": "assets/browsers/firefox.svg",
-      "brand": "mozilla",
+      "id": "html-5",
+      "name": "HTML 5",
+      "category": "coding",
       "tags": [
-        "firefox",
-        "mozilla",
-        "browser",
-        "web"
+        "html",
+        "html5",
+        "markup",
+        "frontend"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/coding/html_5.svg"
+      },
+      "brand": "w3c"
+    },
+    {
+      "id": "jb-hub",
+      "name": "Hub",
+      "category": "coding",
+      "tags": [
+        "hub",
+        "jetbrains",
+        "team tools",
+        "collaboration"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_hub.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "category": "social",
+      "tags": [
+        "instagram",
+        "meta",
+        "social",
+        "photo"
+      ],
+      "assets": {
+        "mark": "assets/social/instagram.svg"
+      },
+      "brand": "meta"
+    },
+    {
+      "id": "jb-intellij-idea",
+      "name": "IntelliJ IDEA",
+      "category": "coding",
+      "tags": [
+        "intellij",
+        "idea",
+        "jetbrains",
+        "ide"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_IntelliJ IDEA.svg"
+      },
+      "brand": "jetbrains"
     },
     {
       "id": "internet-explorer",
       "name": "Internet Explorer",
-      "filename": "assets/browsers/ie.svg",
-      "brand": "microsoft",
+      "category": "browser",
       "tags": [
         "internet explorer",
         "ie",
         "browser",
         "legacy"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/browsers/ie.svg"
+      },
+      "brand": "microsoft"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "category": "coding",
+      "tags": [
+        "java",
+        "programming language",
+        "backend",
+        "enterprise"
+      ],
+      "assets": {
+        "mark": "assets/coding/java.svg"
+      },
+      "brand": "oracle"
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "coding",
+      "tags": [
+        "javascript",
+        "js",
+        "programming language",
+        "frontend"
+      ],
+      "assets": {
+        "mark": "assets/coding/js.svg"
+      },
+      "brand": "ecma"
+    },
+    {
+      "id": "joomla",
+      "name": "Joomla",
+      "category": "coding",
+      "tags": [
+        "joomla",
+        "cms",
+        "php",
+        "web"
+      ],
+      "assets": {
+        "mark": "assets/coding/joomla.svg"
+      },
+      "brand": "joomla"
+    },
+    {
+      "id": "jquery",
+      "name": "jQuery",
+      "category": "coding",
+      "tags": [
+        "jquery",
+        "javascript",
+        "library",
+        "frontend"
+      ],
+      "assets": {
+        "mark": "assets/coding/jquery.svg"
+      },
+      "brand": "jquery"
+    },
+    {
+      "id": "kakao-talk",
+      "name": "KakaoTalk",
+      "category": "messenger",
+      "tags": [
+        "kakao",
+        "chat",
+        "messenger",
+        "korea"
+      ],
+      "assets": {
+        "mark": "assets/messengers/kakao_talk.svg"
+      },
+      "brand": "kakao"
+    },
+    {
+      "id": "jb-kotlin",
+      "name": "Kotlin",
+      "category": "coding",
+      "tags": [
+        "kotlin",
+        "programming language",
+        "android",
+        "jetbrains"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_kotlin.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "line",
+      "name": "LINE",
+      "category": "messenger",
+      "tags": [
+        "line",
+        "chat",
+        "messenger",
+        "japan"
+      ],
+      "assets": {
+        "mark": "assets/messengers/line.svg"
+      },
+      "brand": "line"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "category": "social",
+      "tags": [
+        "linkedin",
+        "professional",
+        "social",
+        "jobs"
+      ],
+      "assets": {
+        "mark": "assets/social/linkedin.svg"
+      },
+      "brand": "linkedin"
+    },
+    {
+      "id": "messages",
+      "name": "Messages",
+      "category": "messenger",
+      "tags": [
+        "messages",
+        "sms",
+        "imessage",
+        "messenger"
+      ],
+      "assets": {
+        "mark": "assets/messengers/messages.svg"
+      },
+      "brand": "apple"
+    },
+    {
+      "id": "microsoft-edge",
+      "name": "Microsoft Edge",
+      "category": "browser",
+      "tags": [
+        "edge",
+        "microsoft",
+        "browser",
+        "web"
+      ],
+      "assets": {
+        "mark": "assets/browsers/edge.svg"
+      },
+      "brand": "microsoft"
+    },
+    {
+      "id": "mozilla-firefox",
+      "name": "Mozilla Firefox",
+      "category": "browser",
+      "tags": [
+        "firefox",
+        "mozilla",
+        "browser",
+        "web"
+      ],
+      "assets": {
+        "mark": "assets/browsers/firefox.svg"
+      },
+      "brand": "mozilla"
+    },
+    {
+      "id": "node-js",
+      "name": "Node.js",
+      "category": "coding",
+      "tags": [
+        "node",
+        "node.js",
+        "javascript",
+        "backend"
+      ],
+      "assets": {
+        "mark": "assets/coding/node_js.svg"
+      },
+      "brand": "nodejs"
+    },
+    {
+      "id": "npm",
+      "name": "npm",
+      "category": "coding",
+      "tags": [
+        "npm",
+        "package manager",
+        "javascript",
+        "node"
+      ],
+      "assets": {
+        "mark": "assets/coding/npm.svg"
+      },
+      "brand": "npm"
+    },
+    {
+      "id": "ok",
+      "name": "OK",
+      "category": "social",
+      "tags": [
+        "ok",
+        "odnoklassniki",
+        "social"
+      ],
+      "assets": {
+        "mark": "assets/social/OK.svg"
+      },
+      "brand": "ok"
     },
     {
       "id": "opera",
       "name": "Opera",
-      "filename": "assets/browsers/opera.svg",
-      "brand": "opera",
+      "category": "browser",
       "tags": [
         "opera",
         "browser",
         "web"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/browsers/opera.svg"
+      },
+      "brand": "opera"
+    },
+    {
+      "id": "patreon",
+      "name": "Patreon",
+      "category": "social",
+      "tags": [
+        "patreon",
+        "creator",
+        "support"
+      ],
+      "assets": {
+        "mark": "assets/social/patreon.svg"
+      },
+      "brand": "patreon"
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "category": "coding",
+      "tags": [
+        "php",
+        "programming language",
+        "backend",
+        "web"
+      ],
+      "assets": {
+        "mark": "assets/coding/php.svg"
+      },
+      "brand": "php"
+    },
+    {
+      "id": "jb-phpstorm",
+      "name": "PhpStorm",
+      "category": "coding",
+      "tags": [
+        "phpstorm",
+        "jetbrains",
+        "ide",
+        "php"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_phpstorm.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "category": "social",
+      "tags": [
+        "pinterest",
+        "social",
+        "design"
+      ],
+      "assets": {
+        "mark": "assets/social/pinterest.svg"
+      },
+      "brand": "pinterest"
+    },
+    {
+      "id": "jb-pycharm",
+      "name": "PyCharm",
+      "category": "coding",
+      "tags": [
+        "pycharm",
+        "jetbrains",
+        "ide",
+        "python"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_pycharm.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "jb-pycharm-edu",
+      "name": "PyCharm Edu",
+      "category": "coding",
+      "tags": [
+        "pycharm edu",
+        "jetbrains",
+        "ide",
+        "python"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_pycharm_edu.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "coding",
+      "tags": [
+        "python",
+        "programming language",
+        "backend",
+        "data"
+      ],
+      "assets": {
+        "mark": "assets/coding/python.svg"
+      },
+      "brand": "python"
+    },
+    {
+      "id": "quora",
+      "name": "Quora",
+      "category": "social",
+      "tags": [
+        "quora",
+        "questions",
+        "social"
+      ],
+      "assets": {
+        "mark": "assets/social/quora.svg"
+      },
+      "brand": "quora"
+    },
+    {
+      "id": "qzone",
+      "name": "Qzone",
+      "category": "social",
+      "tags": [
+        "qzone",
+        "social",
+        "china"
+      ],
+      "assets": {
+        "mark": "assets/social/qzone.svg"
+      },
+      "brand": "tencent"
+    },
+    {
+      "id": "r-lang",
+      "name": "R",
+      "category": "coding",
+      "tags": [
+        "r",
+        "r language",
+        "statistics",
+        "data science"
+      ],
+      "assets": {
+        "mark": "assets/coding/r_lang.svg"
+      },
+      "brand": "r"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "category": "coding",
+      "tags": [
+        "react",
+        "javascript",
+        "library",
+        "frontend"
+      ],
+      "assets": {
+        "mark": "assets/coding/react.svg"
+      },
+      "brand": "meta"
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "category": "social",
+      "tags": [
+        "reddit",
+        "social",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/social/reddit.svg"
+      },
+      "brand": "reddit"
+    },
+    {
+      "id": "redux",
+      "name": "Redux",
+      "category": "coding",
+      "tags": [
+        "redux",
+        "state management",
+        "javascript",
+        "react"
+      ],
+      "assets": {
+        "mark": "assets/coding/redux.svg"
+      },
+      "brand": "redux"
+    },
+    {
+      "id": "jb-resharper",
+      "name": "ReSharper",
+      "category": "coding",
+      "tags": [
+        "resharper",
+        "jetbrains",
+        "refactoring",
+        ".net"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_resharper.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "jb-resharper-cpp",
+      "name": "ReSharper C++",
+      "category": "coding",
+      "tags": [
+        "resharper c++",
+        "jetbrains",
+        "c++",
+        "refactoring"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_resharper_c++.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "jb-rider",
+      "name": "Rider",
+      "category": "coding",
+      "tags": [
+        "rider",
+        "jetbrains",
+        "ide",
+        ".net"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_rider.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "category": "coding",
+      "tags": [
+        "ruby",
+        "programming language",
+        "backend",
+        "rails"
+      ],
+      "assets": {
+        "mark": "assets/coding/ruby.svg"
+      },
+      "brand": "ruby"
+    },
+    {
+      "id": "jb-rubymine",
+      "name": "RubyMine",
+      "category": "coding",
+      "tags": [
+        "rubymine",
+        "jetbrains",
+        "ide",
+        "ruby"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_rubymine.svg"
+      },
+      "brand": "jetbrains"
     },
     {
       "id": "safari",
       "name": "Safari",
-      "filename": "assets/browsers/safari.svg",
-      "brand": "apple",
+      "category": "browser",
       "tags": [
         "safari",
         "apple",
@@ -78,754 +1023,427 @@
         "macos",
         "ios"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/browsers/safari.svg"
+      },
+      "brand": "apple"
     },
     {
-      "id": "tor-browser",
-      "name": "Tor Browser",
-      "filename": "assets/browsers/tor.svg",
-      "brand": "tor",
+      "id": "skype",
+      "name": "Skype",
+      "category": "messenger",
       "tags": [
-        "tor",
-        "privacy",
-        "anonymous",
-        "browser"
+        "skype",
+        "video",
+        "messenger",
+        "microsoft"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/messengers/ms_skype.svg"
+      },
+      "brand": "microsoft"
     },
     {
-      "id": "uc-browser",
-      "name": "UC Browser",
-      "filename": "assets/browsers/uc.svg",
-      "brand": "ucweb",
+      "id": "slack",
+      "name": "Slack",
+      "category": "messenger",
       "tags": [
-        "uc",
-        "uc browser",
-        "browser",
-        "mobile"
+        "slack",
+        "team",
+        "chat",
+        "messenger"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/messengers/slack.svg"
+      },
+      "brand": "slack"
     },
     {
-      "id": "yandex-browser",
-      "name": "Yandex Browser",
-      "filename": "assets/browsers/yandex.svg",
-      "brand": "yandex",
+      "id": "snapchat",
+      "name": "Snapchat",
+      "category": "social",
       "tags": [
-        "yandex",
-        "browser",
-        "web",
-        "russia"
+        "snapchat",
+        "social",
+        "chat"
       ],
-      "category": "browser"
+      "assets": {
+        "mark": "assets/social/snapchat.svg"
+      },
+      "brand": "snapchat"
     },
     {
-      "id": "adobe-dreamweaver",
-      "name": "Adobe Dreamweaver",
-      "filename": "assets/coding/adobe_dreamweaver.svg",
-      "brand": "adobe",
+      "id": "spectrum",
+      "name": "Spectrum",
+      "category": "messenger",
       "tags": [
-        "adobe",
-        "dreamweaver",
-        "code editor",
-        "web design"
+        "spectrum",
+        "chat",
+        "community",
+        "messenger"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/messengers/spectrum.svg"
+      },
+      "brand": "spectrum"
     },
     {
-      "id": "angular",
-      "name": "Angular",
-      "filename": "assets/coding/angular.svg",
-      "brand": "google",
+      "id": "stack-overflow",
+      "name": "Stack Overflow",
+      "category": "social",
       "tags": [
-        "angular",
-        "javascript",
-        "framework",
-        "frontend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "atom",
-      "name": "Atom",
-      "filename": "assets/coding/atom.svg",
-      "brand": "github",
-      "tags": [
-        "atom",
-        "code editor",
-        "text editor",
-        "github"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "bitbucket",
-      "name": "Bitbucket",
-      "filename": "assets/coding/bitbucket.svg",
-      "brand": "atlassian",
-      "tags": [
-        "bitbucket",
-        "git",
-        "repository",
-        "atlassian"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "c-plus-plus",
-      "name": "C++",
-      "filename": "assets/coding/c_plus_plus.svg",
-      "brand": "cpp",
-      "tags": [
-        "c++",
-        "cpp",
-        "programming language",
-        "backend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "c-sharp",
-      "name": "C#",
-      "filename": "assets/coding/c_sharp.svg",
-      "brand": "microsoft",
-      "tags": [
-        "c#",
-        "csharp",
-        ".net",
-        "programming language"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "codepen",
-      "name": "CodePen",
-      "filename": "assets/coding/codepen.svg",
-      "brand": "codepen",
-      "tags": [
-        "codepen",
-        "frontend",
-        "sandbox",
+        "stack overflow",
+        "developer",
         "community"
       ],
-      "category": "coding"
-    },
-    {
-      "id": "css-3",
-      "name": "CSS 3",
-      "filename": "assets/coding/css_3.svg",
-      "brand": "w3c",
-      "tags": [
-        "css",
-        "css3",
-        "stylesheet",
-        "frontend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "filename": "assets/coding/docker.svg",
-      "brand": "docker",
-      "tags": [
-        "docker",
-        "containers",
-        "devops",
-        "infrastructure"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "drupal",
-      "name": "Drupal",
-      "filename": "assets/coding/drupal.svg",
-      "brand": "drupal",
-      "tags": [
-        "drupal",
-        "cms",
-        "php",
-        "web"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "git",
-      "name": "Git",
-      "filename": "assets/coding/git.svg",
-      "brand": "git",
-      "tags": [
-        "git",
-        "version control",
-        "vcs",
-        "cli"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "go",
-      "name": "Go",
-      "filename": "assets/coding/go.svg",
-      "brand": "google",
-      "tags": [
-        "go",
-        "golang",
-        "programming language",
-        "backend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "html-5",
-      "name": "HTML 5",
-      "filename": "assets/coding/html_5.svg",
-      "brand": "w3c",
-      "tags": [
-        "html",
-        "html5",
-        "markup",
-        "frontend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "java",
-      "name": "Java",
-      "filename": "assets/coding/java.svg",
-      "brand": "oracle",
-      "tags": [
-        "java",
-        "programming language",
-        "backend",
-        "enterprise"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-intellij-idea",
-      "name": "IntelliJ IDEA",
-      "filename": "assets/coding/jb_IntelliJ IDEA.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "intellij",
-        "idea",
-        "jetbrains",
-        "ide"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-appcode",
-      "name": "AppCode",
-      "filename": "assets/coding/jb_appcode.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "appcode",
-        "jetbrains",
-        "ide",
-        "ios"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-clion",
-      "name": "CLion",
-      "filename": "assets/coding/jb_clion.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "clion",
-        "jetbrains",
-        "ide",
-        "c++"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-datagrip",
-      "name": "DataGrip",
-      "filename": "assets/coding/jb_datagrip.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "datagrip",
-        "jetbrains",
-        "database",
-        "ide"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-dotcover",
-      "name": "dotCover",
-      "filename": "assets/coding/jb_dotcover.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "dotcover",
-        "jetbrains",
-        "coverage",
-        ".net"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-dotmemory",
-      "name": "dotMemory",
-      "filename": "assets/coding/jb_dotmemory.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "dotmemory",
-        "jetbrains",
-        "profiler",
-        ".net"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-dotpeek",
-      "name": "dotPeek",
-      "filename": "assets/coding/jb_dotpeek.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "dotpeek",
-        "jetbrains",
-        "decompiler",
-        ".net"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-dottrace",
-      "name": "dotTrace",
-      "filename": "assets/coding/jb_dottrace.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "dottrace",
-        "jetbrains",
-        "profiler",
-        ".net"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-goland",
-      "name": "GoLand",
-      "filename": "assets/coding/jb_goland.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "goland",
-        "jetbrains",
-        "ide",
-        "go"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-hub",
-      "name": "Hub",
-      "filename": "assets/coding/jb_hub.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "hub",
-        "jetbrains",
-        "team tools",
-        "collaboration"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-kotlin",
-      "name": "Kotlin",
-      "filename": "assets/coding/jb_kotlin.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "kotlin",
-        "programming language",
-        "android",
-        "jetbrains"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-phpstorm",
-      "name": "PhpStorm",
-      "filename": "assets/coding/jb_phpstorm.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "phpstorm",
-        "jetbrains",
-        "ide",
-        "php"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-pycharm",
-      "name": "PyCharm",
-      "filename": "assets/coding/jb_pycharm.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "pycharm",
-        "jetbrains",
-        "ide",
-        "python"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-pycharm-edu",
-      "name": "PyCharm Edu",
-      "filename": "assets/coding/jb_pycharm_edu.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "pycharm edu",
-        "jetbrains",
-        "ide",
-        "python"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-resharper",
-      "name": "ReSharper",
-      "filename": "assets/coding/jb_resharper.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "resharper",
-        "jetbrains",
-        "refactoring",
-        ".net"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-resharper-cpp",
-      "name": "ReSharper C++",
-      "filename": "assets/coding/jb_resharper_c++.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "resharper c++",
-        "jetbrains",
-        "c++",
-        "refactoring"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-rider",
-      "name": "Rider",
-      "filename": "assets/coding/jb_rider.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "rider",
-        "jetbrains",
-        "ide",
-        ".net"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-rubymine",
-      "name": "RubyMine",
-      "filename": "assets/coding/jb_rubymine.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "rubymine",
-        "jetbrains",
-        "ide",
-        "ruby"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-teamcity",
-      "name": "TeamCity",
-      "filename": "assets/coding/jb_teamcity.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "teamcity",
-        "jetbrains",
-        "ci",
-        "cd"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-toolbox-app",
-      "name": "Toolbox App",
-      "filename": "assets/coding/jb_toolbox_app.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "toolbox",
-        "jetbrains",
-        "launcher",
-        "tools"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-upsource",
-      "name": "Upsource",
-      "filename": "assets/coding/jb_upsource.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "upsource",
-        "jetbrains",
-        "code review",
-        "collaboration"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-webstorm",
-      "name": "WebStorm",
-      "filename": "assets/coding/jb_webstorm.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "webstorm",
-        "jetbrains",
-        "ide",
-        "javascript"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jb-youtrack",
-      "name": "YouTrack",
-      "filename": "assets/coding/jb_youtrack.svg",
-      "brand": "jetbrains",
-      "tags": [
-        "youtrack",
-        "jetbrains",
-        "issue tracker",
-        "agile"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "joomla",
-      "name": "Joomla",
-      "filename": "assets/coding/joomla.svg",
-      "brand": "joomla",
-      "tags": [
-        "joomla",
-        "cms",
-        "php",
-        "web"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "jquery",
-      "name": "jQuery",
-      "filename": "assets/coding/jquery.svg",
-      "brand": "jquery",
-      "tags": [
-        "jquery",
-        "javascript",
-        "library",
-        "frontend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "javascript",
-      "name": "JavaScript",
-      "filename": "assets/coding/js.svg",
-      "brand": "ecma",
-      "tags": [
-        "javascript",
-        "js",
-        "programming language",
-        "frontend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "node-js",
-      "name": "Node.js",
-      "filename": "assets/coding/node_js.svg",
-      "brand": "nodejs",
-      "tags": [
-        "node",
-        "node.js",
-        "javascript",
-        "backend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "npm",
-      "name": "npm",
-      "filename": "assets/coding/npm.svg",
-      "brand": "npm",
-      "tags": [
-        "npm",
-        "package manager",
-        "javascript",
-        "node"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "php",
-      "name": "PHP",
-      "filename": "assets/coding/php.svg",
-      "brand": "php",
-      "tags": [
-        "php",
-        "programming language",
-        "backend",
-        "web"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "python",
-      "name": "Python",
-      "filename": "assets/coding/python.svg",
-      "brand": "python",
-      "tags": [
-        "python",
-        "programming language",
-        "backend",
-        "data"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "r-lang",
-      "name": "R",
-      "filename": "assets/coding/r_lang.svg",
-      "brand": "r",
-      "tags": [
-        "r",
-        "r language",
-        "statistics",
-        "data science"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "react",
-      "name": "React",
-      "filename": "assets/coding/react.svg",
-      "brand": "meta",
-      "tags": [
-        "react",
-        "javascript",
-        "library",
-        "frontend"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "redux",
-      "name": "Redux",
-      "filename": "assets/coding/redux.svg",
-      "brand": "redux",
-      "tags": [
-        "redux",
-        "state management",
-        "javascript",
-        "react"
-      ],
-      "category": "coding"
-    },
-    {
-      "id": "ruby",
-      "name": "Ruby",
-      "filename": "assets/coding/ruby.svg",
-      "brand": "ruby",
-      "tags": [
-        "ruby",
-        "programming language",
-        "backend",
-        "rails"
-      ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/social/stack_overflow.svg"
+      },
+      "brand": "stackoverflow"
     },
     {
       "id": "sublime-text",
       "name": "Sublime Text",
-      "filename": "assets/coding/sublime_text.svg",
-      "brand": "sublime",
+      "category": "coding",
       "tags": [
         "sublime text",
         "code editor",
         "text editor",
         "developer tools"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/sublime_text.svg"
+      },
+      "brand": "sublime"
     },
     {
       "id": "swift",
       "name": "Swift",
-      "filename": "assets/coding/swift.svg",
-      "brand": "apple",
+      "category": "coding",
       "tags": [
         "swift",
         "programming language",
         "ios",
         "apple"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/swift.svg"
+      },
+      "brand": "apple"
+    },
+    {
+      "id": "jb-teamcity",
+      "name": "TeamCity",
+      "category": "coding",
+      "tags": [
+        "teamcity",
+        "jetbrains",
+        "ci",
+        "cd"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_teamcity.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "category": "messenger",
+      "tags": [
+        "telegram",
+        "chat",
+        "messenger",
+        "privacy"
+      ],
+      "assets": {
+        "mark": "assets/messengers/telegram.svg"
+      },
+      "brand": "telegram"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "category": "social",
+      "tags": [
+        "tiktok",
+        "social",
+        "video"
+      ],
+      "assets": {
+        "mark": "assets/social/tiktok.svg"
+      },
+      "brand": "tiktok"
+    },
+    {
+      "id": "tinder",
+      "name": "Tinder",
+      "category": "social",
+      "tags": [
+        "tinder",
+        "dating",
+        "social"
+      ],
+      "assets": {
+        "mark": "assets/social/tinder.svg"
+      },
+      "brand": "tinder"
+    },
+    {
+      "id": "jb-toolbox-app",
+      "name": "Toolbox App",
+      "category": "coding",
+      "tags": [
+        "toolbox",
+        "jetbrains",
+        "launcher",
+        "tools"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_toolbox_app.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "tor-browser",
+      "name": "Tor Browser",
+      "category": "browser",
+      "tags": [
+        "tor",
+        "privacy",
+        "anonymous",
+        "browser"
+      ],
+      "assets": {
+        "mark": "assets/browsers/tor.svg"
+      },
+      "brand": "tor"
+    },
+    {
+      "id": "tumblr",
+      "name": "Tumblr",
+      "category": "social",
+      "tags": [
+        "tumblr",
+        "social",
+        "blog"
+      ],
+      "assets": {
+        "mark": "assets/social/tumbler.svg"
+      },
+      "brand": "tumblr"
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "category": "social",
+      "tags": [
+        "twitter",
+        "social",
+        "x"
+      ],
+      "assets": {
+        "mark": "assets/social/twitter.svg"
+      },
+      "brand": "twitter"
+    },
+    {
+      "id": "uc-browser",
+      "name": "UC Browser",
+      "category": "browser",
+      "tags": [
+        "uc",
+        "uc browser",
+        "browser",
+        "mobile"
+      ],
+      "assets": {
+        "mark": "assets/browsers/uc.svg"
+      },
+      "brand": "ucweb"
+    },
+    {
+      "id": "jb-upsource",
+      "name": "Upsource",
+      "category": "coding",
+      "tags": [
+        "upsource",
+        "jetbrains",
+        "code review",
+        "collaboration"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_upsource.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "viber",
+      "name": "Viber",
+      "category": "messenger",
+      "tags": [
+        "viber",
+        "chat",
+        "messenger",
+        "voip"
+      ],
+      "assets": {
+        "mark": "assets/messengers/viber.svg"
+      },
+      "brand": "viber"
     },
     {
       "id": "vs-code",
       "name": "Visual Studio Code",
-      "filename": "assets/coding/vs_code.svg",
-      "brand": "microsoft",
+      "category": "coding",
       "tags": [
         "vs code",
         "visual studio code",
         "code editor",
         "microsoft"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/vs_code.svg"
+      },
+      "brand": "microsoft"
+    },
+    {
+      "id": "vk",
+      "name": "VK",
+      "category": "social",
+      "tags": [
+        "vk",
+        "social",
+        "russia"
+      ],
+      "assets": {
+        "mark": "assets/social/vk.svg"
+      },
+      "brand": "vk"
     },
     {
       "id": "vue",
       "name": "Vue.js",
-      "filename": "assets/coding/vue.svg",
-      "brand": "vue",
+      "category": "coding",
       "tags": [
         "vue",
         "vue.js",
         "javascript",
         "framework"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/vue.svg"
+      },
+      "brand": "vue"
+    },
+    {
+      "id": "jb-webstorm",
+      "name": "WebStorm",
+      "category": "coding",
+      "tags": [
+        "webstorm",
+        "jetbrains",
+        "ide",
+        "javascript"
+      ],
+      "assets": {
+        "mark": "assets/coding/jb_webstorm.svg"
+      },
+      "brand": "jetbrains"
+    },
+    {
+      "id": "wechat",
+      "name": "WeChat",
+      "category": "messenger",
+      "tags": [
+        "wechat",
+        "chat",
+        "messenger",
+        "china"
+      ],
+      "assets": {
+        "mark": "assets/messengers/wechat.svg"
+      },
+      "brand": "tencent"
     },
     {
       "id": "weebly",
       "name": "Weebly",
-      "filename": "assets/coding/weebly.svg",
-      "brand": "weebly",
+      "category": "coding",
       "tags": [
         "weebly",
         "website builder",
         "cms",
         "ecommerce"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/weebly.svg"
+      },
+      "brand": "weebly"
+    },
+    {
+      "id": "weibo",
+      "name": "Weibo",
+      "category": "social",
+      "tags": [
+        "weibo",
+        "social",
+        "china"
+      ],
+      "assets": {
+        "mark": "assets/social/weibo.svg"
+      },
+      "brand": "weibo"
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "category": "messenger",
+      "tags": [
+        "whatsapp",
+        "chat",
+        "messenger",
+        "meta"
+      ],
+      "assets": {
+        "mark": "assets/messengers/whatsapp.svg"
+      },
+      "brand": "meta"
     },
     {
       "id": "wordpress",
       "name": "WordPress",
-      "filename": "assets/coding/wordpress.svg",
-      "brand": "wordpress",
+      "category": "coding",
       "tags": [
         "wordpress",
         "cms",
         "php",
         "blog"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/wordpress.svg"
+      },
+      "brand": "wordpress"
+    },
+    {
+      "id": "yandex-browser",
+      "name": "Yandex Browser",
+      "category": "browser",
+      "tags": [
+        "yandex",
+        "browser",
+        "web",
+        "russia"
+      ],
+      "assets": {
+        "mark": "assets/browsers/yandex.svg"
+      },
+      "brand": "yandex"
     },
     {
       "id": "yii-1",
       "name": "Yii 1",
-      "filename": "assets/coding/yii_1.svg",
-      "brand": "yii",
+      "category": "coding",
       "tags": [
         "yii",
         "yii1",
@@ -833,458 +1451,40 @@
         "mvc",
         "1"
       ],
-      "category": "coding"
+      "assets": {
+        "mark": "assets/coding/yii_1.svg"
+      },
+      "brand": "yii"
     },
     {
-      "id": "discord",
-      "name": "Discord",
-      "filename": "assets/messengers/discord.svg",
-      "brand": "discord",
+      "id": "jb-youtrack",
+      "name": "YouTrack",
+      "category": "coding",
       "tags": [
-        "discord",
-        "chat",
-        "messenger",
-        "community"
+        "youtrack",
+        "jetbrains",
+        "issue tracker",
+        "agile"
       ],
-      "category": "messenger"
-    },
-    {
-      "id": "facetime",
-      "name": "FaceTime",
-      "filename": "assets/messengers/facetime.svg",
-      "brand": "apple",
-      "tags": [
-        "facetime",
-        "apple",
-        "video",
-        "messenger"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "facebook-messenger",
-      "name": "Facebook Messenger",
-      "filename": "assets/messengers/fb_messenger.svg",
-      "brand": "meta",
-      "tags": [
-        "facebook",
-        "messenger",
-        "meta",
-        "chat"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "google-meet",
-      "name": "Google Meet",
-      "filename": "assets/messengers/google_meet.svg",
-      "brand": "google",
-      "tags": [
-        "google meet",
-        "video",
-        "messenger",
-        "meeting"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "google-hangouts",
-      "name": "Google Hangouts",
-      "filename": "assets/messengers/google_hangouts.svg",
-      "brand": "google",
-      "tags": [
-        "hangouts",
-        "google",
-        "messenger",
-        "chat"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "kakao-talk",
-      "name": "KakaoTalk",
-      "filename": "assets/messengers/kakao_talk.svg",
-      "brand": "kakao",
-      "tags": [
-        "kakao",
-        "chat",
-        "messenger",
-        "korea"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "line",
-      "name": "LINE",
-      "filename": "assets/messengers/line.svg",
-      "brand": "line",
-      "tags": [
-        "line",
-        "chat",
-        "messenger",
-        "japan"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "messages",
-      "name": "Messages",
-      "filename": "assets/messengers/messages.svg",
-      "brand": "apple",
-      "tags": [
-        "messages",
-        "sms",
-        "imessage",
-        "messenger"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "skype",
-      "name": "Skype",
-      "filename": "assets/messengers/ms_skype.svg",
-      "brand": "microsoft",
-      "tags": [
-        "skype",
-        "video",
-        "messenger",
-        "microsoft"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "slack",
-      "name": "Slack",
-      "filename": "assets/messengers/slack.svg",
-      "brand": "slack",
-      "tags": [
-        "slack",
-        "team",
-        "chat",
-        "messenger"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "spectrum",
-      "name": "Spectrum",
-      "filename": "assets/messengers/spectrum.svg",
-      "brand": "spectrum",
-      "tags": [
-        "spectrum",
-        "chat",
-        "community",
-        "messenger"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "telegram",
-      "name": "Telegram",
-      "filename": "assets/messengers/telegram.svg",
-      "brand": "telegram",
-      "tags": [
-        "telegram",
-        "chat",
-        "messenger",
-        "privacy"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "viber",
-      "name": "Viber",
-      "filename": "assets/messengers/viber.svg",
-      "brand": "viber",
-      "tags": [
-        "viber",
-        "chat",
-        "messenger",
-        "voip"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "wechat",
-      "name": "WeChat",
-      "filename": "assets/messengers/wechat.svg",
-      "brand": "tencent",
-      "tags": [
-        "wechat",
-        "chat",
-        "messenger",
-        "china"
-      ],
-      "category": "messenger"
-    },
-    {
-      "id": "whatsapp",
-      "name": "WhatsApp",
-      "filename": "assets/messengers/whatsapp.svg",
-      "brand": "meta",
-      "tags": [
-        "whatsapp",
-        "chat",
-        "messenger",
-        "meta"
-      ],
-      "category": "messenger"
+      "assets": {
+        "mark": "assets/coding/jb_youtrack.svg"
+      },
+      "brand": "jetbrains"
     },
     {
       "id": "zoom",
       "name": "Zoom",
-      "filename": "assets/messengers/zoom.svg",
-      "brand": "zoom",
+      "category": "messenger",
       "tags": [
         "zoom",
         "video",
         "meeting",
         "messenger"
       ],
-      "category": "messenger"
-    },
-    {
-      "id": "facebook",
-      "name": "Facebook",
-      "filename": "assets/social/Facebook.svg",
-      "brand": "meta",
-      "tags": [
-        "facebook",
-        "meta",
-        "social",
-        "network"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "instagram",
-      "name": "Instagram",
-      "filename": "assets/social/instagram.svg",
-      "brand": "meta",
-      "tags": [
-        "instagram",
-        "meta",
-        "social",
-        "photo"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "twitter",
-      "name": "Twitter",
-      "filename": "assets/social/twitter.svg",
-      "brand": "twitter",
-      "tags": [
-        "twitter",
-        "social",
-        "x"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "linkedin",
-      "name": "LinkedIn",
-      "filename": "assets/social/linkedin.svg",
-      "brand": "linkedin",
-      "tags": [
-        "linkedin",
-        "professional",
-        "social",
-        "jobs"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "snapchat",
-      "name": "Snapchat",
-      "filename": "assets/social/snapchat.svg",
-      "brand": "snapchat",
-      "tags": [
-        "snapchat",
-        "social",
-        "chat"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "tiktok",
-      "name": "TikTok",
-      "filename": "assets/social/tiktok.svg",
-      "brand": "tiktok",
-      "tags": [
-        "tiktok",
-        "social",
-        "video"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "reddit",
-      "name": "Reddit",
-      "filename": "assets/social/reddit.svg",
-      "brand": "reddit",
-      "tags": [
-        "reddit",
-        "social",
-        "community"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "pinterest",
-      "name": "Pinterest",
-      "filename": "assets/social/pinterest.svg",
-      "brand": "pinterest",
-      "tags": [
-        "pinterest",
-        "social",
-        "design"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "tumblr",
-      "name": "Tumblr",
-      "filename": "assets/social/tumbler.svg",
-      "brand": "tumblr",
-      "tags": [
-        "tumblr",
-        "social",
-        "blog"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "vk",
-      "name": "VK",
-      "filename": "assets/social/vk.svg",
-      "brand": "vk",
-      "tags": [
-        "vk",
-        "social",
-        "russia"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "weibo",
-      "name": "Weibo",
-      "filename": "assets/social/weibo.svg",
-      "brand": "weibo",
-      "tags": [
-        "weibo",
-        "social",
-        "china"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "quora",
-      "name": "Quora",
-      "filename": "assets/social/quora.svg",
-      "brand": "quora",
-      "tags": [
-        "quora",
-        "questions",
-        "social"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "stack-overflow",
-      "name": "Stack Overflow",
-      "filename": "assets/social/stack_overflow.svg",
-      "brand": "stackoverflow",
-      "tags": [
-        "stack overflow",
-        "developer",
-        "community"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "patreon",
-      "name": "Patreon",
-      "filename": "assets/social/patreon.svg",
-      "brand": "patreon",
-      "tags": [
-        "patreon",
-        "creator",
-        "support"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "askfm",
-      "name": "Ask.fm",
-      "filename": "assets/social/askfm.svg",
-      "brand": "askfm",
-      "tags": [
-        "askfm",
-        "questions",
-        "social"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "badoo",
-      "name": "Badoo",
-      "filename": "assets/social/badoo.svg",
-      "brand": "badoo",
-      "tags": [
-        "badoo",
-        "dating",
-        "social"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "tinder",
-      "name": "Tinder",
-      "filename": "assets/social/tinder.svg",
-      "brand": "tinder",
-      "tags": [
-        "tinder",
-        "dating",
-        "social"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "foursquare",
-      "name": "Foursquare",
-      "filename": "assets/social/foursquare.svg",
-      "brand": "foursquare",
-      "tags": [
-        "foursquare",
-        "places",
-        "social"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "ok",
-      "name": "OK",
-      "filename": "assets/social/OK.svg",
-      "brand": "ok",
-      "tags": [
-        "ok",
-        "odnoklassniki",
-        "social"
-      ],
-      "category": "social"
-    },
-    {
-      "id": "qzone",
-      "name": "Qzone",
-      "filename": "assets/social/qzone.svg",
-      "brand": "tencent",
-      "tags": [
-        "qzone",
-        "social",
-        "china"
-      ],
-      "category": "social"
+      "assets": {
+        "mark": "assets/messengers/zoom.svg"
+      },
+      "brand": "zoom"
     }
   ]
 }
