@@ -85,17 +85,7 @@
         "mobile"
       ]
     },
-    {
-      "id": "yandex-browser",
-      "name": "Yandex Browser",
-      "filename": "assets/browsers/yandex.svg",
-      "brand": "yandex",
-      "tags": [
-        "yandex",
-        "browser",
-        "web",
-        "russia"
-      ]
-    }
+
+
   ]
 }
