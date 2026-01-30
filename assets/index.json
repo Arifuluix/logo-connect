@@ -1,5 +1,5 @@
 {
-  "version": "95dd5991",
+  "version": "21c5d472",
   "items": [
     {
       "id": "google-chrome",
@@ -28,6 +28,23 @@
       ],
       "assets": {
         "mark": "assets/browsers/ie.svg"
+      },
+      "brand": "microsoft"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "category": "brand",
+      "tags": [
+        "microsoft",
+        "windows",
+        "tech",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/microsoft/mark.svg",
+        "full": "assets/companies/microsoft/full.svg"
       },
       "brand": "microsoft"
     },
