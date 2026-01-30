@@ -1,5 +1,5 @@
 {
-  "version": "7f0a8c81",
+  "version": "58702364",
   "items": [
     {
       "id": "google-chrome",
@@ -120,21 +120,6 @@
         "mark": "assets/browsers/uc.svg"
       },
       "brand": "ucweb"
-    },
-    {
-      "id": "yandex-browser",
-      "name": "Yandex Browser",
-      "category": "browser",
-      "tags": [
-        "yandex",
-        "browser",
-        "web",
-        "russia"
-      ],
-      "assets": {
-        "mark": "assets/browsers/yandex.svg"
-      },
-      "brand": "yandex"
     }
   ]
 }
