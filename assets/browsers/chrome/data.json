@@ -1,0 +1,11 @@
+{
+  "id": "google-chrome",
+  "name": "Google Chrome",
+  "category": "browser",
+  "brand": "google",
+  "tags": ["chrome", "browser", "google"],
+  "assets": {
+    "mark": "mark.svg",
+    "full": "full.svg"
+  }
+}
