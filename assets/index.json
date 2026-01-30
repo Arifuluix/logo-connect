@@ -1,5 +1,5 @@
 {
-  "version": "21c5d472",
+  "version": "60085b07",
   "items": [
     {
       "id": "google-chrome",
@@ -34,7 +34,7 @@
     {
       "id": "microsoft",
       "name": "Microsoft",
-      "category": "brand",
+      "category": "Companies",
       "tags": [
         "microsoft",
         "windows",
