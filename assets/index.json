@@ -1,64 +1,7 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-01-30T04:05:50.475Z",
+  "generatedAt": "2026-01-30T04:06:04.346Z",
   "items": [
-    {
-      "id": "askfm",
-      "name": "Ask.fm",
-      "category": "social",
-      "tags": [
-        "askfm",
-        "questions",
-        "social"
-      ],
-      "assets": {
-        "mark": "assets/social/askfm.svg"
-      },
-      "brand": "askfm"
-    },
-    {
-      "id": "badoo",
-      "name": "Badoo",
-      "category": "social",
-      "tags": [
-        "badoo",
-        "dating",
-        "social"
-      ],
-      "assets": {
-        "mark": "assets/social/badoo.svg"
-      },
-      "brand": "badoo"
-    },
-    {
-      "id": "facebook",
-      "name": "Facebook",
-      "category": "social",
-      "tags": [
-        "facebook",
-        "meta",
-        "social",
-        "network"
-      ],
-      "assets": {
-        "mark": "assets/social/Facebook.svg"
-      },
-      "brand": "meta"
-    },
-    {
-      "id": "foursquare",
-      "name": "Foursquare",
-      "category": "social",
-      "tags": [
-        "foursquare",
-        "places",
-        "social"
-      ],
-      "assets": {
-        "mark": "assets/social/foursquare.svg"
-      },
-      "brand": "foursquare"
-    },
     {
       "id": "google-chrome",
       "name": "Google Chrome",
@@ -75,21 +18,6 @@
       "brand": "google"
     },
     {
-      "id": "instagram",
-      "name": "Instagram",
-      "category": "social",
-      "tags": [
-        "instagram",
-        "meta",
-        "social",
-        "photo"
-      ],
-      "assets": {
-        "mark": "assets/social/instagram.svg"
-      },
-      "brand": "meta"
-    },
-    {
       "id": "internet-explorer",
       "name": "Internet Explorer",
       "category": "browser",
@@ -103,21 +31,6 @@
         "mark": "assets/browsers/ie.svg"
       },
       "brand": "microsoft"
-    },
-    {
-      "id": "linkedin",
-      "name": "LinkedIn",
-      "category": "social",
-      "tags": [
-        "linkedin",
-        "professional",
-        "social",
-        "jobs"
-      ],
-      "assets": {
-        "mark": "assets/social/linkedin.svg"
-      },
-      "brand": "linkedin"
     },
     {
       "id": "microsoft-edge",
@@ -150,20 +63,6 @@
       "brand": "mozilla"
     },
     {
-      "id": "ok",
-      "name": "OK",
-      "category": "social",
-      "tags": [
-        "ok",
-        "odnoklassniki",
-        "social"
-      ],
-      "assets": {
-        "mark": "assets/social/OK.svg"
-      },
-      "brand": "ok"
-    },
-    {
       "id": "opera",
       "name": "Opera",
       "category": "browser",
@@ -176,76 +75,6 @@
         "mark": "assets/browsers/opera.svg"
       },
       "brand": "opera"
-    },
-    {
-      "id": "patreon",
-      "name": "Patreon",
-      "category": "social",
-      "tags": [
-        "patreon",
-        "creator",
-        "support"
-      ],
-      "assets": {
-        "mark": "assets/social/patreon.svg"
-      },
-      "brand": "patreon"
-    },
-    {
-      "id": "pinterest",
-      "name": "Pinterest",
-      "category": "social",
-      "tags": [
-        "pinterest",
-        "social",
-        "design"
-      ],
-      "assets": {
-        "mark": "assets/social/pinterest.svg"
-      },
-      "brand": "pinterest"
-    },
-    {
-      "id": "quora",
-      "name": "Quora",
-      "category": "social",
-      "tags": [
-        "quora",
-        "questions",
-        "social"
-      ],
-      "assets": {
-        "mark": "assets/social/quora.svg"
-      },
-      "brand": "quora"
-    },
-    {
-      "id": "qzone",
-      "name": "Qzone",
-      "category": "social",
-      "tags": [
-        "qzone",
-        "social",
-        "china"
-      ],
-      "assets": {
-        "mark": "assets/social/qzone.svg"
-      },
-      "brand": "tencent"
-    },
-    {
-      "id": "reddit",
-      "name": "Reddit",
-      "category": "social",
-      "tags": [
-        "reddit",
-        "social",
-        "community"
-      ],
-      "assets": {
-        "mark": "assets/social/reddit.svg"
-      },
-      "brand": "reddit"
     },
     {
       "id": "safari",
@@ -264,62 +93,6 @@
       "brand": "apple"
     },
     {
-      "id": "snapchat",
-      "name": "Snapchat",
-      "category": "social",
-      "tags": [
-        "snapchat",
-        "social",
-        "chat"
-      ],
-      "assets": {
-        "mark": "assets/social/snapchat.svg"
-      },
-      "brand": "snapchat"
-    },
-    {
-      "id": "stack-overflow",
-      "name": "Stack Overflow",
-      "category": "social",
-      "tags": [
-        "stack overflow",
-        "developer",
-        "community"
-      ],
-      "assets": {
-        "mark": "assets/social/stack_overflow.svg"
-      },
-      "brand": "stackoverflow"
-    },
-    {
-      "id": "tiktok",
-      "name": "TikTok",
-      "category": "social",
-      "tags": [
-        "tiktok",
-        "social",
-        "video"
-      ],
-      "assets": {
-        "mark": "assets/social/tiktok.svg"
-      },
-      "brand": "tiktok"
-    },
-    {
-      "id": "tinder",
-      "name": "Tinder",
-      "category": "social",
-      "tags": [
-        "tinder",
-        "dating",
-        "social"
-      ],
-      "assets": {
-        "mark": "assets/social/tinder.svg"
-      },
-      "brand": "tinder"
-    },
-    {
       "id": "tor-browser",
       "name": "Tor Browser",
       "category": "browser",
@@ -335,34 +108,6 @@
       "brand": "tor"
     },
     {
-      "id": "tumblr",
-      "name": "Tumblr",
-      "category": "social",
-      "tags": [
-        "tumblr",
-        "social",
-        "blog"
-      ],
-      "assets": {
-        "mark": "assets/social/tumbler.svg"
-      },
-      "brand": "tumblr"
-    },
-    {
-      "id": "twitter",
-      "name": "Twitter",
-      "category": "social",
-      "tags": [
-        "twitter",
-        "social",
-        "x"
-      ],
-      "assets": {
-        "mark": "assets/social/twitter.svg"
-      },
-      "brand": "twitter"
-    },
-    {
       "id": "uc-browser",
       "name": "UC Browser",
       "category": "browser",
@@ -376,34 +121,6 @@
         "mark": "assets/browsers/uc.svg"
       },
       "brand": "ucweb"
-    },
-    {
-      "id": "vk",
-      "name": "VK",
-      "category": "social",
-      "tags": [
-        "vk",
-        "social",
-        "russia"
-      ],
-      "assets": {
-        "mark": "assets/social/vk.svg"
-      },
-      "brand": "vk"
-    },
-    {
-      "id": "weibo",
-      "name": "Weibo",
-      "category": "social",
-      "tags": [
-        "weibo",
-        "social",
-        "china"
-      ],
-      "assets": {
-        "mark": "assets/social/weibo.svg"
-      },
-      "brand": "weibo"
     },
     {
       "id": "yandex-browser",
