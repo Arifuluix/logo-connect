@@ -1,0 +1,22 @@
+{
+  "category": "brand",
+  "items": [
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "category": "brand",
+      "brand": "microsoft",
+      "tags": [
+        "microsoft",
+        "windows",
+        "tech",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
