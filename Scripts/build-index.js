@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import crypto from "crypto";
 
 const ASSETS_DIR = "assets";
 const OUTPUT = path.join(ASSETS_DIR, "index.json");
@@ -42,7 +43,6 @@ for (const dataFile of dataFiles) {
     const dataDir = path.dirname(dataFile);
     const data = JSON.parse(fs.readFileSync(dataFile, "utf8"));
 
-    // Handle legacy format: { category, items: [...] }
     if (data.items && Array.isArray(data.items)) {
         for (const item of data.items) {
             if (ids.has(item.id)) {
@@ -64,9 +64,7 @@ for (const dataFile of dataFiles) {
 
             items.push(normalized);
         }
-    }
-    // Handle new format: single logo object
-    else {
+    } else {
         if (ids.has(data.id)) {
             throw new Error(`Duplicate id: ${data.id}`);
         }
@@ -88,13 +86,19 @@ for (const dataFile of dataFiles) {
     }
 }
 
-items.sort((a, b) => a.name.localeCompare(b.name));
+items.sort((a, b) => {
+    const nameCompare = a.name.localeCompare(b.name);
+    if (nameCompare !== 0) return nameCompare;
+    return a.id.localeCompare(b.id);
+});
+
+const contentString = JSON.stringify(items);
+const hash = crypto.createHash("sha256").update(contentString).digest("hex").substring(0, 8);
 
 const index = {
-    version: "1.0.0",
-    generatedAt: new Date().toISOString(),
+    version: hash,
     items
 };
 
 fs.writeFileSync(OUTPUT, JSON.stringify(index, null, 2));
-console.log(`✅ index.json generated with ${items.length} logos`);
+console.log(`✅ index.json generated with ${items.length} logos (version: ${hash})`);
