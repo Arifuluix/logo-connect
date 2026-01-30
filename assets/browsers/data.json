@@ -61,18 +61,8 @@
         "ios"
       ]
     },
-    {
-      "id": "tor-browser",
-      "name": "Tor Browser",
-      "filename": "assets/browsers/tor.svg",
-      "brand": "tor",
-      "tags": [
-        "tor",
-        "privacy",
-        "anonymous",
-        "browser"
-      ]
-    },
+    
+
     {
       "id": "uc-browser",
       "name": "UC Browser",
