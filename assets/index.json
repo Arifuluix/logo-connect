@@ -1,5 +1,5 @@
 {
-  "version": "58702364",
+  "version": "95dd5991",
   "items": [
     {
       "id": "google-chrome",
@@ -90,21 +90,6 @@
         "mark": "assets/browsers/safari.svg"
       },
       "brand": "apple"
-    },
-    {
-      "id": "tor-browser",
-      "name": "Tor Browser",
-      "category": "browser",
-      "tags": [
-        "tor",
-        "privacy",
-        "anonymous",
-        "browser"
-      ],
-      "assets": {
-        "mark": "assets/browsers/tor.svg"
-      },
-      "brand": "tor"
     },
     {
       "id": "uc-browser",
