@@ -1,0 +1,22 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "google",
+      "name": "Google",
+      "category": "brand",
+      "brand": "google",
+      "tags": [
+        "google",
+        "search",
+        "tech",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
