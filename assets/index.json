@@ -1,5 +1,5 @@
 {
-  "version": "c5389b22",
+  "version": "159be36f",
   "items": [
     {
       "id": "google",
@@ -19,36 +19,6 @@
       "brand": "google"
     },
     {
-      "id": "google-chrome",
-      "name": "Google Chrome",
-      "category": "browser",
-      "tags": [
-        "chrome",
-        "browser",
-        "google"
-      ],
-      "assets": {
-        "mark": "assets/browsers/chrome/mark.svg",
-        "full": "assets/browsers/chrome/full.svg"
-      },
-      "brand": "google"
-    },
-    {
-      "id": "internet-explorer",
-      "name": "Internet Explorer",
-      "category": "browser",
-      "tags": [
-        "internet explorer",
-        "ie",
-        "browser",
-        "legacy"
-      ],
-      "assets": {
-        "mark": "assets/browsers/ie.svg"
-      },
-      "brand": "microsoft"
-    },
-    {
       "id": "microsoft",
       "name": "Microsoft",
       "category": "Companies",
@@ -64,81 +34,6 @@
         "full": "assets/companies/microsoft/full.svg"
       },
       "brand": "microsoft"
-    },
-    {
-      "id": "microsoft-edge",
-      "name": "Microsoft Edge",
-      "category": "browser",
-      "tags": [
-        "edge",
-        "microsoft",
-        "browser",
-        "web"
-      ],
-      "assets": {
-        "mark": "assets/browsers/edge.svg"
-      },
-      "brand": "microsoft"
-    },
-    {
-      "id": "mozilla-firefox",
-      "name": "Mozilla Firefox",
-      "category": "browser",
-      "tags": [
-        "firefox",
-        "mozilla",
-        "browser",
-        "web"
-      ],
-      "assets": {
-        "mark": "assets/browsers/firefox.svg"
-      },
-      "brand": "mozilla"
-    },
-    {
-      "id": "opera",
-      "name": "Opera",
-      "category": "browser",
-      "tags": [
-        "opera",
-        "browser",
-        "web"
-      ],
-      "assets": {
-        "mark": "assets/browsers/opera.svg"
-      },
-      "brand": "opera"
-    },
-    {
-      "id": "safari",
-      "name": "Safari",
-      "category": "browser",
-      "tags": [
-        "safari",
-        "apple",
-        "browser",
-        "macos",
-        "ios"
-      ],
-      "assets": {
-        "mark": "assets/browsers/safari.svg"
-      },
-      "brand": "apple"
-    },
-    {
-      "id": "uc-browser",
-      "name": "UC Browser",
-      "category": "browser",
-      "tags": [
-        "uc",
-        "uc browser",
-        "browser",
-        "mobile"
-      ],
-      "assets": {
-        "mark": "assets/browsers/uc.svg"
-      },
-      "brand": "ucweb"
     }
   ]
 }
