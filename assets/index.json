@@ -1,5 +1,5 @@
 {
-  "version": "159be36f",
+  "version": "4ffde2f7",
   "items": [
     {
       "id": "google",
@@ -17,6 +17,24 @@
         "full": "assets/companies/google/full.svg"
       },
       "brand": "google"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "category": "Companies",
+      "tags": [
+        "meta",
+        "facebook",
+        "instagram",
+        "whatsapp",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/meta/mark.svg",
+        "full": "assets/companies/meta/full.svg"
+      },
+      "brand": "meta"
     },
     {
       "id": "microsoft",
