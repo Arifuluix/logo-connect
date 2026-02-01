@@ -1,5 +1,5 @@
 {
-  "version": "6665efcb",
+  "version": "159be36f",
   "items": [
     {
       "id": "google",
@@ -17,6 +17,23 @@
         "full": "assets/companies/google/full.svg"
       },
       "brand": "google"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "category": "Companies",
+      "tags": [
+        "microsoft",
+        "windows",
+        "tech",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/microsoft/mark.svg",
+        "full": "assets/companies/microsoft/full.svg"
+      },
+      "brand": "microsoft"
     }
   ]
 }
