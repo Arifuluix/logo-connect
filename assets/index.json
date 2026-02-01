@@ -1,6 +1,23 @@
 {
-  "version": "4ffde2f7",
+  "version": "dc5958e6",
   "items": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "category": "Companies",
+      "tags": [
+        "amazon",
+        "ecommerce",
+        "shopping",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/amazon/mark.svg",
+        "full": "assets/companies/amazon/full.svg"
+      },
+      "brand": "amazon"
+    },
     {
       "id": "google",
       "name": "Google",
