@@ -1,5 +1,5 @@
 {
-  "version": "0570591c",
+  "version": "59d85a80",
   "items": [
     {
       "id": "amazon",
@@ -17,6 +17,24 @@
         "full": "assets/companies/amazon/full.svg"
       },
       "brand": "amazon"
+    },
+    {
+      "id": "mozilla-firefox",
+      "name": "Firefox",
+      "category": "Browsers",
+      "tags": [
+        "firefox",
+        "mozilla",
+        "browser",
+        "web",
+        "internet",
+        "privacy"
+      ],
+      "assets": {
+        "mark": "assets/browsers/firefox/mark.svg",
+        "full": "assets/browsers/firefox/full.svg"
+      },
+      "brand": "mozilla"
     },
     {
       "id": "google",
