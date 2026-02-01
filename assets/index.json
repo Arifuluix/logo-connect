@@ -1,6 +1,23 @@
 {
-  "version": "60085b07",
+  "version": "c5389b22",
   "items": [
+    {
+      "id": "google",
+      "name": "Google",
+      "category": "Companies",
+      "tags": [
+        "google",
+        "search",
+        "tech",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/google/mark.svg",
+        "full": "assets/companies/google/full.svg"
+      },
+      "brand": "google"
+    },
     {
       "id": "google-chrome",
       "name": "Google Chrome",
