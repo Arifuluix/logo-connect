@@ -1,0 +1,22 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "google-chrome",
+      "name": "Google Chrome",
+      "category": "browser",
+      "brand": "google",
+      "tags": [
+        "chrome",
+        "google",
+        "browser",
+        "web",
+        "internet"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
