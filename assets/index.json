@@ -1,5 +1,5 @@
 {
-  "version": "dc5958e6",
+  "version": "0570591c",
   "items": [
     {
       "id": "amazon",
@@ -32,6 +32,23 @@
       "assets": {
         "mark": "assets/companies/google/mark.svg",
         "full": "assets/companies/google/full.svg"
+      },
+      "brand": "google"
+    },
+    {
+      "id": "google-chrome",
+      "name": "Google Chrome",
+      "category": "Browsers",
+      "tags": [
+        "chrome",
+        "google",
+        "browser",
+        "web",
+        "internet"
+      ],
+      "assets": {
+        "mark": "assets/browsers/chrome/mark.svg",
+        "full": "assets/browsers/chrome/full.svg"
       },
       "brand": "google"
     },
