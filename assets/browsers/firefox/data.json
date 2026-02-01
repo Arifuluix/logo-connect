@@ -1,0 +1,23 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "mozilla-firefox",
+      "name": "Firefox",
+      "category": "browser",
+      "brand": "mozilla",
+      "tags": [
+        "firefox",
+        "mozilla",
+        "browser",
+        "web",
+        "internet",
+        "privacy"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
