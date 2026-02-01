@@ -1,0 +1,23 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "meta",
+      "name": "Meta",
+      "category": "brand",
+      "brand": "meta",
+      "tags": [
+        "meta",
+        "facebook",
+        "instagram",
+        "whatsapp",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
