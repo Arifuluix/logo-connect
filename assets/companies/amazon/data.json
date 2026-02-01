@@ -1,0 +1,22 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "category": "brand",
+      "brand": "amazon",
+      "tags": [
+        "amazon",
+        "ecommerce",
+        "shopping",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
