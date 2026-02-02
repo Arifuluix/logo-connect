@@ -1,0 +1,23 @@
+{
+  "category": "browsers",
+  "items": [
+    {
+      "id": "safari",
+      "name": "Safari",
+      "category": "browser",
+      "brand": "apple",
+      "tags": [
+        "safari",
+        "apple",
+        "browser",
+        "web",
+        "ios",
+        "macos"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
