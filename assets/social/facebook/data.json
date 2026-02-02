@@ -1,0 +1,22 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "brand": "meta",
+      "tags": [
+        "facebook",
+        "fb",
+        "meta",
+        "social",
+        "social media",
+        "network"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
