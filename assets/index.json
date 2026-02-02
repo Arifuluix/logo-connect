@@ -1,5 +1,5 @@
 {
-  "version": "cbfa31c1",
+  "version": "c3f4d2c8",
   "items": [
     {
       "id": "amazon",
@@ -87,6 +87,26 @@
         "full": "assets/browsers/chrome/full.svg"
       },
       "brand": "google"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "category": "Social Media",
+      "tags": [
+        "instagram",
+        "insta",
+        "ig",
+        "meta",
+        "social",
+        "social media",
+        "photos",
+        "videos"
+      ],
+      "assets": {
+        "mark": "assets/social/instagram/mark.svg",
+        "full": "assets/social/instagram/full.svg"
+      },
+      "brand": "meta"
     },
     {
       "id": "meta",
