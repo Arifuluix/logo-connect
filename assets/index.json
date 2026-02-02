@@ -1,5 +1,5 @@
 {
-  "version": "59d85a80",
+  "version": "f8f38ac7",
   "items": [
     {
       "id": "amazon",
@@ -104,6 +104,24 @@
         "full": "assets/companies/microsoft/full.svg"
       },
       "brand": "microsoft"
+    },
+    {
+      "id": "safari",
+      "name": "Safari",
+      "category": "browsers",
+      "tags": [
+        "safari",
+        "apple",
+        "browser",
+        "web",
+        "ios",
+        "macos"
+      ],
+      "assets": {
+        "mark": "assets/browsers/safari/mark.svg",
+        "full": "assets/browsers/safari/full.svg"
+      },
+      "brand": "apple"
     }
   ]
 }
