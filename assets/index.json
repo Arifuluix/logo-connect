@@ -1,5 +1,5 @@
 {
-  "version": "e3ac4410",
+  "version": "251f2c6c",
   "items": [
     {
       "id": "adobe",
@@ -308,6 +308,26 @@
         "full": "assets/companies/microsoft/full.svg"
       },
       "brand": "microsoft"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "category": "Companies",
+      "tags": [
+        "netflix",
+        "streaming",
+        "movies",
+        "series",
+        "entertainment",
+        "video",
+        "ott",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/netflix/mark.svg",
+        "full": "assets/companies/netflix/full.svg"
+      },
+      "brand": "netflix"
     },
     {
       "id": "safari",
