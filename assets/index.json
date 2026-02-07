@@ -1,5 +1,5 @@
 {
-  "version": "05cd3c93",
+  "version": "3b6a08bd",
   "items": [
     {
       "id": "adobe",
@@ -51,6 +51,25 @@
         "full": "assets/companies/amazon/full.svg"
       },
       "brand": "amazon"
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "category": "Companies",
+      "tags": [
+        "amd",
+        "advanced micro devices",
+        "processor",
+        "hardware",
+        "semiconductor",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/amd/mark.svg",
+        "full": "assets/companies/amd/full.svg"
+      },
+      "brand": "amd"
     },
     {
       "id": "facebook",
