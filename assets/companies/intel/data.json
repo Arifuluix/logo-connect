@@ -1,0 +1,25 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "intel",
+      "name": "Intel",
+      "category": "brand",
+      "brand": "intel",
+      "tags": [
+        "intel",
+        "processor",
+        "cpu",
+        "semiconductor",
+        "technology",
+        "chip",
+        "hardware",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
