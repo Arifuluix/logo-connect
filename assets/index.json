@@ -1,5 +1,5 @@
 {
-  "version": "e68e109a",
+  "version": "e3ac4410",
   "items": [
     {
       "id": "adobe",
@@ -254,6 +254,25 @@
         "full": "assets/companies/intel/full.svg"
       },
       "brand": "intel"
+    },
+    {
+      "id": "lg",
+      "name": "LG",
+      "category": "Companies",
+      "tags": [
+        "lg",
+        "life's good",
+        "electronics",
+        "technology",
+        "appliances",
+        "hardware",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/lg/mark.svg",
+        "full": "assets/companies/lg/full.svg"
+      },
+      "brand": "lg"
     },
     {
       "id": "meta",
