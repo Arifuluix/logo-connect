@@ -1,5 +1,5 @@
 {
-  "version": "3b6a08bd",
+  "version": "e4c4a16a",
   "items": [
     {
       "id": "adobe",
@@ -70,6 +70,25 @@
         "full": "assets/companies/amd/full.svg"
       },
       "brand": "amd"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "category": "Companies",
+      "tags": [
+        "apple",
+        "mac",
+        "iphone",
+        "ipad",
+        "ios",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/apple/mark.svg",
+        "full": "assets/companies/apple/full.svg"
+      },
+      "brand": "apple"
     },
     {
       "id": "facebook",
