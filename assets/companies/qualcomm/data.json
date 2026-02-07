@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "category": "brand",
+      "brand": "qualcomm",
+      "tags": [
+        "qualcomm",
+        "snapdragon",
+        "semiconductor",
+        "mobile chipset",
+        "hardware",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
