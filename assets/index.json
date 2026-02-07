@@ -1,5 +1,5 @@
 {
-  "version": "a58a6855",
+  "version": "6745264e",
   "items": [
     {
       "id": "adobe",
@@ -424,6 +424,25 @@
         "full": "assets/companies/salesforce/full.svg"
       },
       "brand": "salesforce"
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "category": "Companies",
+      "tags": [
+        "samsung",
+        "electronics",
+        "smartphone",
+        "hardware",
+        "technology",
+        "appliances",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/samsung/mark.svg",
+        "full": "assets/companies/samsung/full.svg"
+      },
+      "brand": "samsung"
     }
   ]
 }
