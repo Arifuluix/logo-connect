@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "uber",
+      "name": "Uber",
+      "category": "brand",
+      "brand": "uber",
+      "tags": [
+        "uber",
+        "ride sharing",
+        "transport",
+        "mobility",
+        "delivery",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
