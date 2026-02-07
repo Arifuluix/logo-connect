@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "amd",
+      "name": "AMD",
+      "category": "brand",
+      "brand": "amd",
+      "tags": [
+        "amd",
+        "advanced micro devices",
+        "processor",
+        "hardware",
+        "semiconductor",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
