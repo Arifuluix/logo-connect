@@ -1,6 +1,23 @@
 {
-  "version": "c3f4d2c8",
+  "version": "6267bac3",
   "items": [
+    {
+      "id": "adobe",
+      "name": "Adobe",
+      "category": "Companies",
+      "tags": [
+        "adobe",
+        "creative",
+        "design",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/adobe/mark.svg",
+        "full": "assets/companies/adobe/full.svg"
+      },
+      "brand": "adobe"
+    },
     {
       "id": "amazon",
       "name": "Amazon",
