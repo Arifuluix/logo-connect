@@ -1,5 +1,5 @@
 {
-  "version": "db91a6cc",
+  "version": "e68e109a",
   "items": [
     {
       "id": "adobe",
@@ -234,6 +234,26 @@
         "full": "assets/social/instagram/full.svg"
       },
       "brand": "meta"
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "category": "Companies",
+      "tags": [
+        "intel",
+        "processor",
+        "cpu",
+        "semiconductor",
+        "technology",
+        "chip",
+        "hardware",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/intel/mark.svg",
+        "full": "assets/companies/intel/full.svg"
+      },
+      "brand": "intel"
     },
     {
       "id": "meta",
