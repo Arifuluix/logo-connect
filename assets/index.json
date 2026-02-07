@@ -1,5 +1,5 @@
 {
-  "version": "e4c4a16a",
+  "version": "279dffe3",
   "items": [
     {
       "id": "adobe",
@@ -89,6 +89,24 @@
         "full": "assets/companies/apple/full.svg"
       },
       "brand": "apple"
+    },
+    {
+      "id": "dell",
+      "name": "Dell",
+      "category": "Companies",
+      "tags": [
+        "dell",
+        "computer",
+        "laptop",
+        "hardware",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/dell/mark.svg",
+        "full": "assets/companies/dell/full.svg"
+      },
+      "brand": "dell"
     },
     {
       "id": "facebook",
