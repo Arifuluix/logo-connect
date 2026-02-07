@@ -1,5 +1,5 @@
 {
-  "version": "9e3b35fa",
+  "version": "8c9b825c",
   "items": [
     {
       "id": "adobe",
@@ -481,6 +481,25 @@
         "full": "assets/companies/uber/full.svg"
       },
       "brand": "uber"
+    },
+    {
+      "id": "zoom",
+      "name": "Zoom",
+      "category": "Companies",
+      "tags": [
+        "zoom",
+        "video conferencing",
+        "meeting",
+        "communication",
+        "remote work",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/zoom/mark.svg",
+        "full": "assets/companies/zoom/full.svg"
+      },
+      "brand": "zoom"
     }
   ]
 }
