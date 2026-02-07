@@ -1,5 +1,5 @@
 {
-  "version": "9a1ad96e",
+  "version": "de734933",
   "items": [
     {
       "id": "adobe",
@@ -348,6 +348,25 @@
         "full": "assets/companies/nvidia/full.svg"
       },
       "brand": "nvidia"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "category": "Companies",
+      "tags": [
+        "oracle",
+        "database",
+        "cloud",
+        "enterprise",
+        "software",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/oracle/mark.svg",
+        "full": "assets/companies/oracle/full.svg"
+      },
+      "brand": "oracle"
     },
     {
       "id": "safari",
