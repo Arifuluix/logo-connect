@@ -1,5 +1,5 @@
 {
-  "version": "e0f6c116",
+  "version": "a58a6855",
   "items": [
     {
       "id": "adobe",
@@ -404,6 +404,26 @@
         "full": "assets/browsers/safari/full.svg"
       },
       "brand": "apple"
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "category": "Companies",
+      "tags": [
+        "salesforce",
+        "crm",
+        "cloud",
+        "enterprise",
+        "saas",
+        "software",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/salesforce/mark.svg",
+        "full": "assets/companies/salesforce/full.svg"
+      },
+      "brand": "salesforce"
     }
   ]
 }
