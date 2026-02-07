@@ -1,5 +1,5 @@
 {
-  "version": "251f2c6c",
+  "version": "9a1ad96e",
   "items": [
     {
       "id": "adobe",
@@ -328,6 +328,26 @@
         "full": "assets/companies/netflix/full.svg"
       },
       "brand": "netflix"
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "category": "Companies",
+      "tags": [
+        "nvidia",
+        "gpu",
+        "graphics",
+        "ai",
+        "hardware",
+        "semiconductor",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/nvidia/mark.svg",
+        "full": "assets/companies/nvidia/full.svg"
+      },
+      "brand": "nvidia"
     },
     {
       "id": "safari",
