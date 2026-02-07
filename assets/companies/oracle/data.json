@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "category": "brand",
+      "brand": "oracle",
+      "tags": [
+        "oracle",
+        "database",
+        "cloud",
+        "enterprise",
+        "software",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
