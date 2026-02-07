@@ -1,0 +1,22 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "category": "brand",
+      "brand": "airbnb",
+      "tags": [
+        "airbnb",
+        "travel",
+        "hospitality",
+        "booking",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
