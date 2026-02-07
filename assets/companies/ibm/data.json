@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "category": "brand",
+      "brand": "ibm",
+      "tags": [
+        "ibm",
+        "international business machines",
+        "technology",
+        "enterprise",
+        "cloud",
+        "ai",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
