@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "lg",
+      "name": "LG",
+      "category": "brand",
+      "brand": "lg",
+      "tags": [
+        "lg",
+        "life's good",
+        "electronics",
+        "technology",
+        "appliances",
+        "hardware",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
