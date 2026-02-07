@@ -1,0 +1,23 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "dropbox",
+      "name": "Dropbox",
+      "category": "brand",
+      "brand": "dropbox",
+      "tags": [
+        "dropbox",
+        "cloud",
+        "storage",
+        "file sharing",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
