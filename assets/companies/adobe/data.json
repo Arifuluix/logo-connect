@@ -1,0 +1,22 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "adobe",
+      "name": "Adobe",
+      "category": "brand",
+      "brand": "adobe",
+      "tags": [
+        "adobe",
+        "creative",
+        "design",
+        "software",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
