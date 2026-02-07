@@ -1,0 +1,25 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "category": "brand",
+      "brand": "salesforce",
+      "tags": [
+        "salesforce",
+        "crm",
+        "cloud",
+        "enterprise",
+        "saas",
+        "software",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
