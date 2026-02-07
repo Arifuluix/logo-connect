@@ -1,5 +1,5 @@
 {
-  "version": "6267bac3",
+  "version": "05cd3c93",
   "items": [
     {
       "id": "adobe",
@@ -17,6 +17,23 @@
         "full": "assets/companies/adobe/full.svg"
       },
       "brand": "adobe"
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "category": "Companies",
+      "tags": [
+        "airbnb",
+        "travel",
+        "hospitality",
+        "booking",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/airbnb/mark.svg",
+        "full": "assets/companies/airbnb/full.svg"
+      },
+      "brand": "airbnb"
     },
     {
       "id": "amazon",
