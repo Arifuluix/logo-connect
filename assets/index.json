@@ -1,5 +1,5 @@
 {
-  "version": "dfa81352",
+  "version": "db91a6cc",
   "items": [
     {
       "id": "adobe",
@@ -195,6 +195,25 @@
         "full": "assets/browsers/chrome/full.svg"
       },
       "brand": "google"
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "category": "Companies",
+      "tags": [
+        "ibm",
+        "international business machines",
+        "technology",
+        "enterprise",
+        "cloud",
+        "ai",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/ibm/mark.svg",
+        "full": "assets/companies/ibm/full.svg"
+      },
+      "brand": "ibm"
     },
     {
       "id": "instagram",
