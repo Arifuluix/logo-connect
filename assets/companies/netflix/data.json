@@ -1,0 +1,25 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "category": "brand",
+      "brand": "netflix",
+      "tags": [
+        "netflix",
+        "streaming",
+        "movies",
+        "series",
+        "entertainment",
+        "video",
+        "ott",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
