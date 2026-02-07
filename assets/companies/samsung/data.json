@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "samsung",
+      "name": "Samsung",
+      "category": "brand",
+      "brand": "samsung",
+      "tags": [
+        "samsung",
+        "electronics",
+        "smartphone",
+        "hardware",
+        "technology",
+        "appliances",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
