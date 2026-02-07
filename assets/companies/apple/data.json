@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "category": "brand",
+      "brand": "apple",
+      "tags": [
+        "apple",
+        "mac",
+        "iphone",
+        "ipad",
+        "ios",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
