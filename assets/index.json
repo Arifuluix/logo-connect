@@ -1,5 +1,5 @@
 {
-  "version": "de734933",
+  "version": "e0f6c116",
   "items": [
     {
       "id": "adobe",
@@ -367,6 +367,25 @@
         "full": "assets/companies/oracle/full.svg"
       },
       "brand": "oracle"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "category": "Companies",
+      "tags": [
+        "qualcomm",
+        "snapdragon",
+        "semiconductor",
+        "mobile chipset",
+        "hardware",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/qualcomm/mark.svg",
+        "full": "assets/companies/qualcomm/full.svg"
+      },
+      "brand": "qualcomm"
     },
     {
       "id": "safari",
