@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "zoom",
+      "name": "Zoom",
+      "category": "brand",
+      "brand": "zoom",
+      "tags": [
+        "zoom",
+        "video conferencing",
+        "meeting",
+        "communication",
+        "remote work",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
