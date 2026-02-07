@@ -1,0 +1,24 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "category": "brand",
+      "brand": "tesla",
+      "tags": [
+        "tesla",
+        "electric vehicle",
+        "ev",
+        "automotive",
+        "technology",
+        "energy",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
