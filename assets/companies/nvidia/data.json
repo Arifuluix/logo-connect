@@ -1,0 +1,25 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "category": "brand",
+      "brand": "nvidia",
+      "tags": [
+        "nvidia",
+        "gpu",
+        "graphics",
+        "ai",
+        "hardware",
+        "semiconductor",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
