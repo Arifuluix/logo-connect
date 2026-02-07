@@ -1,5 +1,5 @@
 {
-  "version": "6745264e",
+  "version": "b03ca2d0",
   "items": [
     {
       "id": "adobe",
@@ -443,6 +443,25 @@
         "full": "assets/companies/samsung/full.svg"
       },
       "brand": "samsung"
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "category": "Companies",
+      "tags": [
+        "tesla",
+        "electric vehicle",
+        "ev",
+        "automotive",
+        "technology",
+        "energy",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/tesla/mark.svg",
+        "full": "assets/companies/tesla/full.svg"
+      },
+      "brand": "tesla"
     }
   ]
 }
