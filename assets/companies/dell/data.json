@@ -1,0 +1,23 @@
+{
+  "category": "Companies",
+  "items": [
+    {
+      "id": "dell",
+      "name": "Dell",
+      "category": "brand",
+      "brand": "dell",
+      "tags": [
+        "dell",
+        "computer",
+        "laptop",
+        "hardware",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
