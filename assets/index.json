@@ -1,5 +1,5 @@
 {
-  "version": "279dffe3",
+  "version": "dfa81352",
   "items": [
     {
       "id": "adobe",
@@ -107,6 +107,24 @@
         "full": "assets/companies/dell/full.svg"
       },
       "brand": "dell"
+    },
+    {
+      "id": "dropbox",
+      "name": "Dropbox",
+      "category": "Companies",
+      "tags": [
+        "dropbox",
+        "cloud",
+        "storage",
+        "file sharing",
+        "technology",
+        "company"
+      ],
+      "assets": {
+        "mark": "assets/companies/dropbox/mark.svg",
+        "full": "assets/companies/dropbox/full.svg"
+      },
+      "brand": "dropbox"
     },
     {
       "id": "facebook",
