@@ -1,0 +1,24 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "aloha-browser",
+      "name": "Aloha Browser",
+      "category": "browser",
+      "brand": "aloha",
+      "tags": [
+        "aloha",
+        "aloha browser",
+        "browser",
+        "internet",
+        "web",
+        "privacy",
+        "mobile browser"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
