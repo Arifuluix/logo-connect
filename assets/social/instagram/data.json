@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "category": "social media",
+      "brand": "instagram",
+      "tags": [
+        "instagram",
+        "social media",
+        "meta",
+        "photo",
+        "video",
+        "reels",
+        "stories"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
