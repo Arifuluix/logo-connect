@@ -1,5 +1,5 @@
 {
-  "version": "ce547704",
+  "version": "878c846d",
   "items": [
     {
       "id": "adobe",
@@ -183,6 +183,24 @@
         "full": "assets/browsers/duckduckgo/full.svg"
       },
       "brand": "duckduckgo"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "category": "Social Media",
+      "tags": [
+        "facebook",
+        "social media",
+        "meta",
+        "network",
+        "community",
+        "messenger"
+      ],
+      "assets": {
+        "mark": "assets/social/facebook/mark.svg",
+        "full": "assets/social/facebook/full.svg"
+      },
+      "brand": "facebook"
     },
     {
       "id": "mozilla-firefox",
