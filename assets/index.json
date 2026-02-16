@@ -1,5 +1,5 @@
 {
-  "version": "878c846d",
+  "version": "abdf7174",
   "items": [
     {
       "id": "adobe",
@@ -272,6 +272,25 @@
         "full": "assets/companies/ibm/full.svg"
       },
       "brand": "ibm"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "category": "Social Media",
+      "tags": [
+        "instagram",
+        "social media",
+        "meta",
+        "photo",
+        "video",
+        "reels",
+        "stories"
+      ],
+      "assets": {
+        "mark": "assets/social/instagram/mark.svg",
+        "full": "assets/social/instagram/full.svg"
+      },
+      "brand": "instagram"
     },
     {
       "id": "intel",
