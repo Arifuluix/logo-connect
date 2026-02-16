@@ -1,5 +1,5 @@
 {
-  "version": "66b194af",
+  "version": "ce547704",
   "items": [
     {
       "id": "adobe",
@@ -185,24 +185,6 @@
       "brand": "duckduckgo"
     },
     {
-      "id": "facebook",
-      "name": "Facebook",
-      "category": "Social Media",
-      "tags": [
-        "facebook",
-        "fb",
-        "meta",
-        "social",
-        "social media",
-        "network"
-      ],
-      "assets": {
-        "mark": "assets/social/facebook/mark.svg",
-        "full": "assets/social/facebook/full.svg"
-      },
-      "brand": "meta"
-    },
-    {
       "id": "mozilla-firefox",
       "name": "Firefox",
       "category": "Browsers",
@@ -272,26 +254,6 @@
         "full": "assets/companies/ibm/full.svg"
       },
       "brand": "ibm"
-    },
-    {
-      "id": "instagram",
-      "name": "Instagram",
-      "category": "Social Media",
-      "tags": [
-        "instagram",
-        "insta",
-        "ig",
-        "meta",
-        "social",
-        "social media",
-        "photos",
-        "videos"
-      ],
-      "assets": {
-        "mark": "assets/social/instagram/mark.svg",
-        "full": "assets/social/instagram/full.svg"
-      },
-      "brand": "meta"
     },
     {
       "id": "intel",
