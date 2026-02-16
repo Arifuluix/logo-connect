@@ -1,5 +1,5 @@
 {
-  "version": "8651a0d5",
+  "version": "408a651d",
   "items": [
     {
       "id": "adobe",
@@ -537,6 +537,25 @@
       "assets": {
         "mark": "assets/companies/samsung/mark.svg",
         "full": "assets/companies/samsung/full.svg"
+      },
+      "brand": "samsung"
+    },
+    {
+      "id": "samsung-internet",
+      "name": "Samsung Internet",
+      "category": "Browsers",
+      "tags": [
+        "samsung internet",
+        "samsung",
+        "browser",
+        "android",
+        "mobile browser",
+        "web",
+        "internet"
+      ],
+      "assets": {
+        "mark": "assets/browsers/samsunginternet/mark.svg",
+        "full": "assets/browsers/samsunginternet/full.svg"
       },
       "brand": "samsung"
     },
