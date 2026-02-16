@@ -1,0 +1,25 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "tor-browser",
+      "name": "Tor Browser",
+      "category": "browser",
+      "brand": "tor",
+      "tags": [
+        "tor",
+        "tor browser",
+        "browser",
+        "privacy",
+        "anonymous",
+        "onion",
+        "secure browser",
+        "internet"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
