@@ -1,5 +1,5 @@
 {
-  "version": "1177b41a",
+  "version": "8651a0d5",
   "items": [
     {
       "id": "adobe",
@@ -312,6 +312,26 @@
         "full": "assets/companies/intel/full.svg"
       },
       "brand": "intel"
+    },
+    {
+      "id": "internet-explorer",
+      "name": "Internet Explorer",
+      "category": "Browsers",
+      "tags": [
+        "internet explorer",
+        "ie",
+        "microsoft",
+        "browser",
+        "legacy",
+        "windows",
+        "web",
+        "internet"
+      ],
+      "assets": {
+        "mark": "assets/browsers/internetexplorer/mark.svg",
+        "full": "assets/browsers/internetexplorer/full.svg"
+      },
+      "brand": "microsoft"
     },
     {
       "id": "lg",
