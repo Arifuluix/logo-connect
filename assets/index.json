@@ -1,5 +1,5 @@
 {
-  "version": "abdf7174",
+  "version": "281ca2e7",
   "items": [
     {
       "id": "adobe",
@@ -108,6 +108,24 @@
         "full": "assets/companies/apple/full.svg"
       },
       "brand": "apple"
+    },
+    {
+      "id": "badoo",
+      "name": "Badoo",
+      "category": "Social Media",
+      "tags": [
+        "badoo",
+        "social media",
+        "dating",
+        "chat",
+        "messaging",
+        "app"
+      ],
+      "assets": {
+        "mark": "assets/social/badoo/mark.svg",
+        "full": "assets/social/badoo/full.svg"
+      },
+      "brand": "badoo"
     },
     {
       "id": "brave",
