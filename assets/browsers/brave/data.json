@@ -1,0 +1,24 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "brave",
+      "name": "Brave",
+      "category": "browser",
+      "brand": "brave",
+      "tags": [
+        "brave",
+        "browser",
+        "web browser",
+        "privacy",
+        "secure browser",
+        "internet",
+        "technology"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
