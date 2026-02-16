@@ -1,0 +1,23 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "badoo",
+      "name": "Badoo",
+      "category": "social media",
+      "brand": "badoo",
+      "tags": [
+        "badoo",
+        "social media",
+        "dating",
+        "chat",
+        "messaging",
+        "app"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
