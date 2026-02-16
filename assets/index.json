@@ -1,5 +1,5 @@
 {
-  "version": "293022a7",
+  "version": "601753e9",
   "items": [
     {
       "id": "adobe",
@@ -327,6 +327,24 @@
         "full": "assets/browsers/chrome/full.svg"
       },
       "brand": "google"
+    },
+    {
+      "id": "hinge",
+      "name": "Hinge",
+      "category": "Social Media",
+      "tags": [
+        "hinge",
+        "dating",
+        "social media",
+        "dating app",
+        "relationship",
+        "app"
+      ],
+      "assets": {
+        "mark": "assets/social/hinge/mark.svg",
+        "full": "assets/social/hinge/full.svg"
+      },
+      "brand": "hinge"
     },
     {
       "id": "ibm",
