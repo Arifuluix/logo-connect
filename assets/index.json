@@ -1,5 +1,5 @@
 {
-  "version": "6b4188c0",
+  "version": "744b2690",
   "items": [
     {
       "id": "adobe",
@@ -367,6 +367,24 @@
         "full": "assets/companies/nvidia/full.svg"
       },
       "brand": "nvidia"
+    },
+    {
+      "id": "opera",
+      "name": "Opera",
+      "category": "Browsers",
+      "tags": [
+        "opera",
+        "browser",
+        "web browser",
+        "internet",
+        "technology",
+        "opera browser"
+      ],
+      "assets": {
+        "mark": "assets/browsers/opera/mark.svg",
+        "full": "assets/browsers/opera/full.svg"
+      },
+      "brand": "opera"
     },
     {
       "id": "oracle",
