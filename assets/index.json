@@ -1,5 +1,5 @@
 {
-  "version": "8094a3cd",
+  "version": "33990c01",
   "items": [
     {
       "id": "adobe",
@@ -181,6 +181,25 @@
         "full": "assets/companies/dell/full.svg"
       },
       "brand": "dell"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "category": "Social Media",
+      "tags": [
+        "discord",
+        "social media",
+        "chat",
+        "community",
+        "gaming",
+        "voice",
+        "messaging"
+      ],
+      "assets": {
+        "mark": "assets/social/discord/mark.svg",
+        "full": "assets/social/discord/full.svg"
+      },
+      "brand": "discord"
     },
     {
       "id": "dropbox",
