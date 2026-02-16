@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "flickr",
+      "name": "Flickr",
+      "category": "social media",
+      "brand": "flickr",
+      "tags": [
+        "flickr",
+        "social media",
+        "photo",
+        "photography",
+        "image",
+        "sharing",
+        "community"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
