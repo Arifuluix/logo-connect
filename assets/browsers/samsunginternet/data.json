@@ -1,0 +1,24 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "samsung-internet",
+      "name": "Samsung Internet",
+      "category": "browser",
+      "brand": "samsung",
+      "tags": [
+        "samsung internet",
+        "samsung",
+        "browser",
+        "android",
+        "mobile browser",
+        "web",
+        "internet"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
