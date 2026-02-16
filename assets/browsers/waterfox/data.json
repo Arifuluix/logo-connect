@@ -1,0 +1,24 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "waterfox",
+      "name": "Waterfox",
+      "category": "browser",
+      "brand": "waterfox",
+      "tags": [
+        "waterfox",
+        "browser",
+        "web browser",
+        "privacy browser",
+        "firefox fork",
+        "internet",
+        "open source"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
