@@ -1,0 +1,23 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "hinge",
+      "name": "Hinge",
+      "category": "social media",
+      "brand": "hinge",
+      "tags": [
+        "hinge",
+        "dating",
+        "social media",
+        "dating app",
+        "relationship",
+        "app"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
