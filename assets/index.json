@@ -1,5 +1,5 @@
 {
-  "version": "8c9b825c",
+  "version": "6b4188c0",
   "items": [
     {
       "id": "adobe",
@@ -89,6 +89,25 @@
         "full": "assets/companies/apple/full.svg"
       },
       "brand": "apple"
+    },
+    {
+      "id": "brave",
+      "name": "Brave",
+      "category": "Browsers",
+      "tags": [
+        "brave",
+        "browser",
+        "web browser",
+        "privacy",
+        "secure browser",
+        "internet",
+        "technology"
+      ],
+      "assets": {
+        "mark": "assets/browsers/brave/mark.svg",
+        "full": "assets/browsers/brave/full.svg"
+      },
+      "brand": "brave"
     },
     {
       "id": "dell",
