@@ -1,5 +1,5 @@
 {
-  "version": "0f05e260",
+  "version": "66b194af",
   "items": [
     {
       "id": "adobe",
@@ -654,6 +654,25 @@
         "full": "assets/browsers/waterfox/full.svg"
       },
       "brand": "waterfox"
+    },
+    {
+      "id": "yandex-browser",
+      "name": "Yandex Browser",
+      "category": "Browsers",
+      "tags": [
+        "yandex",
+        "yandex browser",
+        "browser",
+        "web browser",
+        "internet",
+        "privacy browser",
+        "russian browser"
+      ],
+      "assets": {
+        "mark": "assets/browsers/yandex/mark.svg",
+        "full": "assets/browsers/yandex/full.svg"
+      },
+      "brand": "yandex"
     },
     {
       "id": "zoom",
