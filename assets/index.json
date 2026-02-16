@@ -1,5 +1,5 @@
 {
-  "version": "1dc4f9fc",
+  "version": "1177b41a",
   "items": [
     {
       "id": "adobe",
@@ -163,6 +163,26 @@
         "full": "assets/companies/dropbox/full.svg"
       },
       "brand": "dropbox"
+    },
+    {
+      "id": "duckduckgo",
+      "name": "DuckDuckGo",
+      "category": "Browsers",
+      "tags": [
+        "duckduckgo",
+        "duck duck go",
+        "browser",
+        "search",
+        "privacy",
+        "secure",
+        "internet",
+        "web"
+      ],
+      "assets": {
+        "mark": "assets/browsers/duckduckgo/mark.svg",
+        "full": "assets/browsers/duckduckgo/full.svg"
+      },
+      "brand": "duckduckgo"
     },
     {
       "id": "facebook",
