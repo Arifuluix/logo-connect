@@ -1,0 +1,24 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "vivaldi",
+      "name": "Vivaldi",
+      "category": "browser",
+      "brand": "vivaldi",
+      "tags": [
+        "vivaldi",
+        "vivaldi browser",
+        "browser",
+        "internet",
+        "web",
+        "privacy",
+        "customizable"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
