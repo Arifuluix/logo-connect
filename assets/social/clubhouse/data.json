@@ -1,0 +1,23 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "clubhouse",
+      "name": "Clubhouse",
+      "category": "social media",
+      "brand": "clubhouse",
+      "tags": [
+        "clubhouse",
+        "social media",
+        "audio",
+        "chat",
+        "voice",
+        "community"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
