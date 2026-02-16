@@ -1,0 +1,23 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "opera",
+      "name": "Opera",
+      "category": "browser",
+      "brand": "opera",
+      "tags": [
+        "opera",
+        "browser",
+        "web browser",
+        "internet",
+        "technology",
+        "opera browser"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
