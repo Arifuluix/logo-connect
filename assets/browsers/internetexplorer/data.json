@@ -1,0 +1,25 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "internet-explorer",
+      "name": "Internet Explorer",
+      "category": "browser",
+      "brand": "microsoft",
+      "tags": [
+        "internet explorer",
+        "ie",
+        "microsoft",
+        "browser",
+        "legacy",
+        "windows",
+        "web",
+        "internet"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
