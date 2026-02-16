@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "discord",
+      "name": "Discord",
+      "category": "social media",
+      "brand": "discord",
+      "tags": [
+        "discord",
+        "social media",
+        "chat",
+        "community",
+        "gaming",
+        "voice",
+        "messaging"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
