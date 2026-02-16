@@ -1,5 +1,5 @@
 {
-  "version": "281ca2e7",
+  "version": "8094a3cd",
   "items": [
     {
       "id": "adobe",
@@ -145,6 +145,24 @@
         "full": "assets/browsers/brave/full.svg"
       },
       "brand": "brave"
+    },
+    {
+      "id": "clubhouse",
+      "name": "Clubhouse",
+      "category": "Social Media",
+      "tags": [
+        "clubhouse",
+        "social media",
+        "audio",
+        "chat",
+        "voice",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/social/clubhouse/mark.svg",
+        "full": "assets/social/clubhouse/full.svg"
+      },
+      "brand": "clubhouse"
     },
     {
       "id": "dell",
