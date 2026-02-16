@@ -1,5 +1,5 @@
 {
-  "version": "fd63b036",
+  "version": "7d3500f0",
   "items": [
     {
       "id": "adobe",
@@ -538,6 +538,25 @@
         "full": "assets/companies/uber/full.svg"
       },
       "brand": "uber"
+    },
+    {
+      "id": "vivaldi",
+      "name": "Vivaldi",
+      "category": "Browsers",
+      "tags": [
+        "vivaldi",
+        "vivaldi browser",
+        "browser",
+        "internet",
+        "web",
+        "privacy",
+        "customizable"
+      ],
+      "assets": {
+        "mark": "assets/browsers/vivaldi/mark.svg",
+        "full": "assets/browsers/vivaldi/full.svg"
+      },
+      "brand": "vivaldi"
     },
     {
       "id": "zoom",
