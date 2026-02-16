@@ -1,5 +1,5 @@
 {
-  "version": "33990c01",
+  "version": "293022a7",
   "items": [
     {
       "id": "adobe",
@@ -274,6 +274,25 @@
         "full": "assets/browsers/firefox/full.svg"
       },
       "brand": "mozilla"
+    },
+    {
+      "id": "flickr",
+      "name": "Flickr",
+      "category": "Social Media",
+      "tags": [
+        "flickr",
+        "social media",
+        "photo",
+        "photography",
+        "image",
+        "sharing",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/social/flickr/mark.svg",
+        "full": "assets/social/flickr/full.svg"
+      },
+      "brand": "flickr"
     },
     {
       "id": "google",
