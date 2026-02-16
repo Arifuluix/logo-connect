@@ -1,0 +1,24 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "yandex-browser",
+      "name": "Yandex Browser",
+      "category": "browser",
+      "brand": "yandex",
+      "tags": [
+        "yandex",
+        "yandex browser",
+        "browser",
+        "web browser",
+        "internet",
+        "privacy browser",
+        "russian browser"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
