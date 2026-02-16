@@ -1,5 +1,5 @@
 {
-  "version": "7d3500f0",
+  "version": "1dc4f9fc",
   "items": [
     {
       "id": "adobe",
@@ -34,6 +34,25 @@
         "full": "assets/companies/airbnb/full.svg"
       },
       "brand": "airbnb"
+    },
+    {
+      "id": "aloha-browser",
+      "name": "Aloha Browser",
+      "category": "Browsers",
+      "tags": [
+        "aloha",
+        "aloha browser",
+        "browser",
+        "internet",
+        "web",
+        "privacy",
+        "mobile browser"
+      ],
+      "assets": {
+        "mark": "assets/browsers/aloha/mark.svg",
+        "full": "assets/browsers/aloha/full.svg"
+      },
+      "brand": "aloha"
     },
     {
       "id": "amazon",
