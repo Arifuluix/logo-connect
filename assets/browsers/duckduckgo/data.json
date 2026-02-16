@@ -1,0 +1,25 @@
+{
+  "category": "Browsers",
+  "items": [
+    {
+      "id": "duckduckgo",
+      "name": "DuckDuckGo",
+      "category": "browser",
+      "brand": "duckduckgo",
+      "tags": [
+        "duckduckgo",
+        "duck duck go",
+        "browser",
+        "search",
+        "privacy",
+        "secure",
+        "internet",
+        "web"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
