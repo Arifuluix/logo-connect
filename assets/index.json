@@ -1,5 +1,5 @@
 {
-  "version": "408a651d",
+  "version": "0f05e260",
   "items": [
     {
       "id": "adobe",
@@ -635,6 +635,25 @@
         "full": "assets/browsers/vivaldi/full.svg"
       },
       "brand": "vivaldi"
+    },
+    {
+      "id": "waterfox",
+      "name": "Waterfox",
+      "category": "Browsers",
+      "tags": [
+        "waterfox",
+        "browser",
+        "web browser",
+        "privacy browser",
+        "firefox fork",
+        "internet",
+        "open source"
+      ],
+      "assets": {
+        "mark": "assets/browsers/waterfox/mark.svg",
+        "full": "assets/browsers/waterfox/full.svg"
+      },
+      "brand": "waterfox"
     },
     {
       "id": "zoom",
