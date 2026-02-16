@@ -1,5 +1,5 @@
 {
-  "version": "744b2690",
+  "version": "fd63b036",
   "items": [
     {
       "id": "adobe",
@@ -499,6 +499,26 @@
         "full": "assets/companies/tesla/full.svg"
       },
       "brand": "tesla"
+    },
+    {
+      "id": "tor-browser",
+      "name": "Tor Browser",
+      "category": "Browsers",
+      "tags": [
+        "tor",
+        "tor browser",
+        "browser",
+        "privacy",
+        "anonymous",
+        "onion",
+        "secure browser",
+        "internet"
+      ],
+      "assets": {
+        "mark": "assets/browsers/tor/mark.svg",
+        "full": "assets/browsers/tor/full.svg"
+      },
+      "brand": "tor"
     },
     {
       "id": "uber",
