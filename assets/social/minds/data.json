@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "minds",
+      "name": "Minds",
+      "category": "social media",
+      "brand": "minds",
+      "tags": [
+        "minds",
+        "social media",
+        "network",
+        "community",
+        "platform",
+        "decentralized",
+        "social network"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
