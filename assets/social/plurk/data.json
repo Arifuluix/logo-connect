@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "plurk",
+      "name": "Plurk",
+      "category": "social media",
+      "brand": "plurk",
+      "tags": [
+        "plurk",
+        "social media",
+        "microblogging",
+        "community",
+        "timeline",
+        "network",
+        "sharing"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
