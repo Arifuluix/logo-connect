@@ -1,5 +1,5 @@
 {
-  "version": "68ce11e3",
+  "version": "c839bf93",
   "items": [
     {
       "id": "adobe",
@@ -613,6 +613,25 @@
         "full": "assets/companies/netflix/full.svg"
       },
       "brand": "netflix"
+    },
+    {
+      "id": "nextdoor",
+      "name": "Nextdoor",
+      "category": "Social Media",
+      "tags": [
+        "nextdoor",
+        "social media",
+        "community",
+        "network",
+        "neighborhood",
+        "local",
+        "social network"
+      ],
+      "assets": {
+        "mark": "assets/social/nextdoor/mark.svg",
+        "full": "assets/social/nextdoor/full.svg"
+      },
+      "brand": "nextdoor"
     },
     {
       "id": "nvidia",
