@@ -1,5 +1,5 @@
 {
-  "version": "c839bf93",
+  "version": "6258c7e1",
   "items": [
     {
       "id": "adobe",
@@ -652,6 +652,25 @@
         "full": "assets/companies/nvidia/full.svg"
       },
       "brand": "nvidia"
+    },
+    {
+      "id": "okcupid",
+      "name": "OkCupid",
+      "category": "Social Media",
+      "tags": [
+        "okcupid",
+        "dating",
+        "social media",
+        "dating app",
+        "matchmaking",
+        "relationship",
+        "social network"
+      ],
+      "assets": {
+        "mark": "assets/social/okcupid/mark.svg",
+        "full": "assets/social/okcupid/full.svg"
+      },
+      "brand": "okcupid"
     },
     {
       "id": "opera",
