@@ -1,5 +1,5 @@
 {
-  "version": "5bb7a856",
+  "version": "1df69678",
   "items": [
     {
       "id": "adobe",
@@ -728,6 +728,25 @@
         "full": "assets/social/pinterest/full.svg"
       },
       "brand": "pinterest"
+    },
+    {
+      "id": "plurk",
+      "name": "Plurk",
+      "category": "Social Media",
+      "tags": [
+        "plurk",
+        "social media",
+        "microblogging",
+        "community",
+        "timeline",
+        "network",
+        "sharing"
+      ],
+      "assets": {
+        "mark": "assets/social/plurk/mark.svg",
+        "full": "assets/social/plurk/full.svg"
+      },
+      "brand": "plurk"
     },
     {
       "id": "qualcomm",
