@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "category": "social media",
+      "brand": "pinterest",
+      "tags": [
+        "pinterest",
+        "social media",
+        "pin",
+        "inspiration",
+        "design",
+        "images",
+        "ideas",
+        "visual discovery"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
