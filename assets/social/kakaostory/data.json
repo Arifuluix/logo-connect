@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "kakaostory",
+      "name": "KakaoStory",
+      "category": "social media",
+      "brand": "kakao",
+      "tags": [
+        "kakaostory",
+        "kakao",
+        "social media",
+        "story",
+        "korea",
+        "network",
+        "community"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
