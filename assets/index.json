@@ -1,5 +1,5 @@
 {
-  "version": "45db133b",
+  "version": "c080631f",
   "items": [
     {
       "id": "adobe",
@@ -520,6 +520,25 @@
         "full": "assets/social/mastodon/full.svg"
       },
       "brand": "mastodon"
+    },
+    {
+      "id": "meetup",
+      "name": "Meetup",
+      "category": "Social Media",
+      "tags": [
+        "meetup",
+        "social media",
+        "community",
+        "events",
+        "groups",
+        "network",
+        "meetings"
+      ],
+      "assets": {
+        "mark": "assets/social/meetup/mark.svg",
+        "full": "assets/social/meetup/full.svg"
+      },
+      "brand": "meetup"
     },
     {
       "id": "meta",
