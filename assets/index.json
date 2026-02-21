@@ -1,5 +1,5 @@
 {
-  "version": "49f8ee27",
+  "version": "dc813749",
   "items": [
     {
       "id": "adobe",
@@ -481,6 +481,26 @@
         "full": "assets/social/line/full.svg"
       },
       "brand": "line"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "category": "Social Media",
+      "tags": [
+        "linkedin",
+        "social media",
+        "professional",
+        "network",
+        "business",
+        "career",
+        "jobs",
+        "microsoft"
+      ],
+      "assets": {
+        "mark": "assets/social/linkedin/mark.svg",
+        "full": "assets/social/linkedin/full.svg"
+      },
+      "brand": "linkedin"
     },
     {
       "id": "meta",
