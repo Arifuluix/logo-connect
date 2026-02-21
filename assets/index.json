@@ -1,5 +1,5 @@
 {
-  "version": "518d36ae",
+  "version": "49f8ee27",
   "items": [
     {
       "id": "adobe",
@@ -461,6 +461,26 @@
         "full": "assets/companies/lg/full.svg"
       },
       "brand": "lg"
+    },
+    {
+      "id": "line",
+      "name": "LINE",
+      "category": "Social Media",
+      "tags": [
+        "line",
+        "line messenger",
+        "social media",
+        "messaging",
+        "chat",
+        "communication",
+        "japan",
+        "korea"
+      ],
+      "assets": {
+        "mark": "assets/social/line/mark.svg",
+        "full": "assets/social/line/full.svg"
+      },
+      "brand": "line"
     },
     {
       "id": "meta",
