@@ -1,5 +1,5 @@
 {
-  "version": "c080631f",
+  "version": "68ce11e3",
   "items": [
     {
       "id": "adobe",
@@ -574,6 +574,25 @@
         "full": "assets/companies/microsoft/full.svg"
       },
       "brand": "microsoft"
+    },
+    {
+      "id": "minds",
+      "name": "Minds",
+      "category": "Social Media",
+      "tags": [
+        "minds",
+        "social media",
+        "network",
+        "community",
+        "platform",
+        "decentralized",
+        "social network"
+      ],
+      "assets": {
+        "mark": "assets/social/minds/mark.svg",
+        "full": "assets/social/minds/full.svg"
+      },
+      "brand": "minds"
     },
     {
       "id": "netflix",
