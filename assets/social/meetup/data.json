@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "meetup",
+      "name": "Meetup",
+      "category": "social media",
+      "brand": "meetup",
+      "tags": [
+        "meetup",
+        "social media",
+        "community",
+        "events",
+        "groups",
+        "network",
+        "meetings"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
