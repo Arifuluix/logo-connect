@@ -1,5 +1,5 @@
 {
-  "version": "dc813749",
+  "version": "45db133b",
   "items": [
     {
       "id": "adobe",
@@ -501,6 +501,25 @@
         "full": "assets/social/linkedin/full.svg"
       },
       "brand": "linkedin"
+    },
+    {
+      "id": "mastodon",
+      "name": "Mastodon",
+      "category": "Social Media",
+      "tags": [
+        "mastodon",
+        "social media",
+        "network",
+        "federated",
+        "decentralized",
+        "community",
+        "microblogging"
+      ],
+      "assets": {
+        "mark": "assets/social/mastodon/mark.svg",
+        "full": "assets/social/mastodon/full.svg"
+      },
+      "brand": "mastodon"
     },
     {
       "id": "meta",
