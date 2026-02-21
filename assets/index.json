@@ -1,5 +1,5 @@
 {
-  "version": "6258c7e1",
+  "version": "5bb7a856",
   "items": [
     {
       "id": "adobe",
@@ -708,6 +708,26 @@
         "full": "assets/companies/oracle/full.svg"
       },
       "brand": "oracle"
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "category": "Social Media",
+      "tags": [
+        "pinterest",
+        "social media",
+        "pin",
+        "inspiration",
+        "design",
+        "images",
+        "ideas",
+        "visual discovery"
+      ],
+      "assets": {
+        "mark": "assets/social/pinterest/mark.svg",
+        "full": "assets/social/pinterest/full.svg"
+      },
+      "brand": "pinterest"
     },
     {
       "id": "qualcomm",
