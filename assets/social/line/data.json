@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "line",
+      "name": "LINE",
+      "category": "social media",
+      "brand": "line",
+      "tags": [
+        "line",
+        "line messenger",
+        "social media",
+        "messaging",
+        "chat",
+        "communication",
+        "japan",
+        "korea"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
