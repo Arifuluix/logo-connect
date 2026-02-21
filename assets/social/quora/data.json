@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "quora",
+      "name": "Quora",
+      "category": "social media",
+      "brand": "quora",
+      "tags": [
+        "quora",
+        "social media",
+        "questions",
+        "answers",
+        "community",
+        "knowledge",
+        "forum"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
