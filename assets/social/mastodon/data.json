@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "mastodon",
+      "name": "Mastodon",
+      "category": "social media",
+      "brand": "mastodon",
+      "tags": [
+        "mastodon",
+        "social media",
+        "network",
+        "federated",
+        "decentralized",
+        "community",
+        "microblogging"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
