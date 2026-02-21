@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "category": "social media",
+      "brand": "linkedin",
+      "tags": [
+        "linkedin",
+        "social media",
+        "professional",
+        "network",
+        "business",
+        "career",
+        "jobs",
+        "microsoft"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
