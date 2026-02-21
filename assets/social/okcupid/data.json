@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "okcupid",
+      "name": "OkCupid",
+      "category": "social media",
+      "brand": "okcupid",
+      "tags": [
+        "okcupid",
+        "dating",
+        "social media",
+        "dating app",
+        "matchmaking",
+        "relationship",
+        "social network"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
