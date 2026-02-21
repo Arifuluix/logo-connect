@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "nextdoor",
+      "name": "Nextdoor",
+      "category": "social media",
+      "brand": "nextdoor",
+      "tags": [
+        "nextdoor",
+        "social media",
+        "community",
+        "network",
+        "neighborhood",
+        "local",
+        "social network"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
