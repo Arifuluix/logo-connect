@@ -1,5 +1,5 @@
 {
-  "version": "601753e9",
+  "version": "518d36ae",
   "items": [
     {
       "id": "adobe",
@@ -423,6 +423,25 @@
         "full": "assets/browsers/internetexplorer/full.svg"
       },
       "brand": "microsoft"
+    },
+    {
+      "id": "kakaostory",
+      "name": "KakaoStory",
+      "category": "Social Media",
+      "tags": [
+        "kakaostory",
+        "kakao",
+        "social media",
+        "story",
+        "korea",
+        "network",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/social/kakaostory/mark.svg",
+        "full": "assets/social/kakaostory/full.svg"
+      },
+      "brand": "kakao"
     },
     {
       "id": "lg",
