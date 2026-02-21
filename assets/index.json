@@ -1,5 +1,5 @@
 {
-  "version": "1df69678",
+  "version": "c6e67582",
   "items": [
     {
       "id": "adobe",
@@ -766,6 +766,25 @@
         "full": "assets/companies/qualcomm/full.svg"
       },
       "brand": "qualcomm"
+    },
+    {
+      "id": "quora",
+      "name": "Quora",
+      "category": "Social Media",
+      "tags": [
+        "quora",
+        "social media",
+        "questions",
+        "answers",
+        "community",
+        "knowledge",
+        "forum"
+      ],
+      "assets": {
+        "mark": "assets/social/quora/mark.svg",
+        "full": "assets/social/quora/full.svg"
+      },
+      "brand": "quora"
     },
     {
       "id": "safari",
