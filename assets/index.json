@@ -1,5 +1,5 @@
 {
-  "version": "ffd03be0",
+  "version": "7677eaa7",
   "items": [
     {
       "id": "adobe",
@@ -900,6 +900,26 @@
         "full": "assets/social/snapchat/full.svg"
       },
       "brand": "snapchat"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "category": "Social Media",
+      "tags": [
+        "telegram",
+        "social media",
+        "messaging",
+        "chat",
+        "messenger",
+        "communication",
+        "paper plane",
+        "app"
+      ],
+      "assets": {
+        "mark": "assets/social/telegram/mark.svg",
+        "full": "assets/social/telegram/full.svg"
+      },
+      "brand": "telegram"
     },
     {
       "id": "tesla",
