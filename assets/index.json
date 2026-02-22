@@ -1,5 +1,5 @@
 {
-  "version": "badd8376",
+  "version": "ffd03be0",
   "items": [
     {
       "id": "adobe",
@@ -880,6 +880,26 @@
         "full": "assets/browsers/samsunginternet/full.svg"
       },
       "brand": "samsung"
+    },
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "category": "Social Media",
+      "tags": [
+        "snapchat",
+        "social media",
+        "chat",
+        "messaging",
+        "stories",
+        "snap",
+        "camera",
+        "ghost"
+      ],
+      "assets": {
+        "mark": "assets/social/snapchat/mark.svg",
+        "full": "assets/social/snapchat/full.svg"
+      },
+      "brand": "snapchat"
     },
     {
       "id": "tesla",
