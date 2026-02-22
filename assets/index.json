@@ -1,5 +1,5 @@
 {
-  "version": "ca15475c",
+  "version": "c0a3c76c",
   "items": [
     {
       "id": "adobe",
@@ -1117,6 +1117,26 @@
         "full": "assets/browsers/waterfox/full.svg"
       },
       "brand": "waterfox"
+    },
+    {
+      "id": "weibo",
+      "name": "Weibo",
+      "category": "Social Media",
+      "tags": [
+        "weibo",
+        "sina weibo",
+        "social media",
+        "social network",
+        "microblogging",
+        "china",
+        "messaging",
+        "community"
+      ],
+      "assets": {
+        "mark": "assets/social/weibo/mark.svg",
+        "full": "assets/social/weibo/full.svg"
+      },
+      "brand": "weibo"
     },
     {
       "id": "yandex-browser",
