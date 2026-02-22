@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "tinder",
+      "name": "Tinder",
+      "category": "social media",
+      "brand": "tinder",
+      "tags": [
+        "tinder",
+        "social media",
+        "dating",
+        "dating app",
+        "matchmaking",
+        "relationship",
+        "swipe",
+        "match"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
