@@ -1,5 +1,5 @@
 {
-  "version": "a29e7cc7",
+  "version": "ca15475c",
   "items": [
     {
       "id": "adobe",
@@ -1078,6 +1078,26 @@
         "full": "assets/browsers/vivaldi/full.svg"
       },
       "brand": "vivaldi"
+    },
+    {
+      "id": "vkontakte",
+      "name": "VKontakte",
+      "category": "Social Media",
+      "tags": [
+        "vkontakte",
+        "vk",
+        "social media",
+        "social network",
+        "community",
+        "chat",
+        "messaging",
+        "russia"
+      ],
+      "assets": {
+        "mark": "assets/social/vkontakte/mark.svg",
+        "full": "assets/social/vkontakte/full.svg"
+      },
+      "brand": "vk"
     },
     {
       "id": "waterfox",
