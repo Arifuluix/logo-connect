@@ -1,5 +1,5 @@
 {
-  "version": "7677eaa7",
+  "version": "7c918056",
   "items": [
     {
       "id": "adobe",
@@ -939,6 +939,27 @@
         "full": "assets/companies/tesla/full.svg"
       },
       "brand": "tesla"
+    },
+    {
+      "id": "threads",
+      "name": "Threads",
+      "category": "Social Media",
+      "tags": [
+        "threads",
+        "meta",
+        "instagram threads",
+        "social media",
+        "network",
+        "community",
+        "messaging",
+        "text",
+        "conversation"
+      ],
+      "assets": {
+        "mark": "assets/social/threads/mark.svg",
+        "full": "assets/social/threads/full.svg"
+      },
+      "brand": "threads"
     },
     {
       "id": "tor-browser",
