@@ -1,5 +1,5 @@
 {
-  "version": "c6e67582",
+  "version": "badd8376",
   "items": [
     {
       "id": "adobe",
@@ -785,6 +785,25 @@
         "full": "assets/social/quora/full.svg"
       },
       "brand": "quora"
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "category": "Social Media",
+      "tags": [
+        "reddit",
+        "social media",
+        "community",
+        "forum",
+        "discussion",
+        "news",
+        "internet"
+      ],
+      "assets": {
+        "mark": "assets/social/reddit/mark.svg",
+        "full": "assets/social/reddit/full.svg"
+      },
+      "brand": "reddit"
     },
     {
       "id": "safari",
