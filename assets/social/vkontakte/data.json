@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "vkontakte",
+      "name": "VKontakte",
+      "category": "social media",
+      "brand": "vk",
+      "tags": [
+        "vkontakte",
+        "vk",
+        "social media",
+        "social network",
+        "community",
+        "chat",
+        "messaging",
+        "russia"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
