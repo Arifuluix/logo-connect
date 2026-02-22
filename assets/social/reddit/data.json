@@ -1,0 +1,24 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "category": "social media",
+      "brand": "reddit",
+      "tags": [
+        "reddit",
+        "social media",
+        "community",
+        "forum",
+        "discussion",
+        "news",
+        "internet"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
