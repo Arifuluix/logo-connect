@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "category": "social media",
+      "brand": "snapchat",
+      "tags": [
+        "snapchat",
+        "social media",
+        "chat",
+        "messaging",
+        "stories",
+        "snap",
+        "camera",
+        "ghost"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
