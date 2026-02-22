@@ -1,5 +1,5 @@
 {
-  "version": "cc7262e2",
+  "version": "b3672780",
   "items": [
     {
       "id": "adobe",
@@ -980,6 +980,26 @@
         "full": "assets/social/tiktok/full.svg"
       },
       "brand": "tiktok"
+    },
+    {
+      "id": "tinder",
+      "name": "Tinder",
+      "category": "Social Media",
+      "tags": [
+        "tinder",
+        "social media",
+        "dating",
+        "dating app",
+        "matchmaking",
+        "relationship",
+        "swipe",
+        "match"
+      ],
+      "assets": {
+        "mark": "assets/social/tinder/mark.svg",
+        "full": "assets/social/tinder/full.svg"
+      },
+      "brand": "tinder"
     },
     {
       "id": "tor-browser",
