@@ -1,5 +1,5 @@
 {
-  "version": "7c918056",
+  "version": "cc7262e2",
   "items": [
     {
       "id": "adobe",
@@ -960,6 +960,26 @@
         "full": "assets/social/threads/full.svg"
       },
       "brand": "threads"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "category": "Social Media",
+      "tags": [
+        "tiktok",
+        "social media",
+        "video",
+        "short video",
+        "bytedance",
+        "entertainment",
+        "reels",
+        "creator"
+      ],
+      "assets": {
+        "mark": "assets/social/tiktok/mark.svg",
+        "full": "assets/social/tiktok/full.svg"
+      },
+      "brand": "tiktok"
     },
     {
       "id": "tor-browser",
