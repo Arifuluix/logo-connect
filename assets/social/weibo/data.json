@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "weibo",
+      "name": "Weibo",
+      "category": "social media",
+      "brand": "weibo",
+      "tags": [
+        "weibo",
+        "sina weibo",
+        "social media",
+        "social network",
+        "microblogging",
+        "china",
+        "messaging",
+        "community"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
