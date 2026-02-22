@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "category": "social media",
+      "brand": "telegram",
+      "tags": [
+        "telegram",
+        "social media",
+        "messaging",
+        "chat",
+        "messenger",
+        "communication",
+        "paper plane",
+        "app"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
