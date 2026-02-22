@@ -1,0 +1,26 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "threads",
+      "name": "Threads",
+      "category": "social media",
+      "brand": "threads",
+      "tags": [
+        "threads",
+        "meta",
+        "instagram threads",
+        "social media",
+        "network",
+        "community",
+        "messaging",
+        "text",
+        "conversation"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
