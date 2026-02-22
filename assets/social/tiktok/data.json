@@ -1,0 +1,25 @@
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "category": "social media",
+      "brand": "tiktok",
+      "tags": [
+        "tiktok",
+        "social media",
+        "video",
+        "short video",
+        "bytedance",
+        "entertainment",
+        "reels",
+        "creator"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
