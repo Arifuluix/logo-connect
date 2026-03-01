@@ -1,0 +1,25 @@
+{
+  "category": "Communication",
+  "items": [
+    {
+      "id": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "category": "communication",
+      "brand": "messenger",
+      "tags": [
+        "facebook messenger",
+        "messenger",
+        "meta",
+        "chat",
+        "messaging",
+        "communication",
+        "social",
+        "facebook"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
