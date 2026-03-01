@@ -1,0 +1,25 @@
+{
+  "category": "Communication",
+  "items": [
+    {
+      "id": "signal",
+      "name": "Signal",
+      "category": "communication",
+      "brand": "signal",
+      "tags": [
+        "signal",
+        "communication",
+        "messaging",
+        "chat",
+        "secure",
+        "privacy",
+        "encrypted",
+        "messenger"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
