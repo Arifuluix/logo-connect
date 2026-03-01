@@ -1,5 +1,5 @@
 {
-  "version": "f64415b3",
+  "version": "f8db9c8a",
   "items": [
     {
       "id": "adobe",
@@ -347,6 +347,26 @@
         "full": "assets/communication/googlemeet/full.svg"
       },
       "brand": "google"
+    },
+    {
+      "id": "goto-meeting",
+      "name": "GoTo Meeting",
+      "category": "Communication",
+      "tags": [
+        "goto meeting",
+        "goto",
+        "video conferencing",
+        "meeting",
+        "communication",
+        "webinar",
+        "remote work",
+        "collaboration"
+      ],
+      "assets": {
+        "mark": "assets/communication/goto/mark.svg",
+        "full": "assets/communication/goto/full.svg"
+      },
+      "brand": "goto"
     },
     {
       "id": "hinge",
