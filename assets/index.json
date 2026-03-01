@@ -1,5 +1,5 @@
 {
-  "version": "f8db9c8a",
+  "version": "3141436e",
   "items": [
     {
       "id": "adobe",
@@ -560,6 +560,26 @@
         "full": "assets/social/mastodon/full.svg"
       },
       "brand": "mastodon"
+    },
+    {
+      "id": "mattermost",
+      "name": "Mattermost",
+      "category": "Communication",
+      "tags": [
+        "mattermost",
+        "communication",
+        "team chat",
+        "messaging",
+        "collaboration",
+        "workspace",
+        "open source",
+        "chat"
+      ],
+      "assets": {
+        "mark": "assets/communication/mattermost/mark.svg",
+        "full": "assets/communication/mattermost/full.svg"
+      },
+      "brand": "mattermost"
     },
     {
       "id": "meetup",
