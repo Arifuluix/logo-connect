@@ -1,0 +1,25 @@
+{
+  "category": "Communication",
+  "items": [
+    {
+      "id": "rocket-chat",
+      "name": "Rocket.Chat",
+      "category": "communication",
+      "brand": "rocket-chat",
+      "tags": [
+        "rocket chat",
+        "rocket.chat",
+        "communication",
+        "team chat",
+        "messaging",
+        "collaboration",
+        "workspace",
+        "open source"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
