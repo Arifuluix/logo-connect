@@ -1,0 +1,25 @@
+{
+  "category": "Communication",
+  "items": [
+    {
+      "id": "google-meet",
+      "name": "Google Meet",
+      "category": "communication",
+      "brand": "google",
+      "tags": [
+        "google meet",
+        "meet",
+        "video call",
+        "video conferencing",
+        "communication",
+        "meeting",
+        "google",
+        "workspace"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
