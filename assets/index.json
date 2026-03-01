@@ -1,5 +1,5 @@
 {
-  "version": "2d00fac4",
+  "version": "53a6f555",
   "items": [
     {
       "id": "adobe",
@@ -884,6 +884,26 @@
         "full": "assets/social/reddit/full.svg"
       },
       "brand": "reddit"
+    },
+    {
+      "id": "rocket-chat",
+      "name": "Rocket.Chat",
+      "category": "Communication",
+      "tags": [
+        "rocket chat",
+        "rocket.chat",
+        "communication",
+        "team chat",
+        "messaging",
+        "collaboration",
+        "workspace",
+        "open source"
+      ],
+      "assets": {
+        "mark": "assets/communication/rocketchat/mark.svg",
+        "full": "assets/communication/rocketchat/full.svg"
+      },
+      "brand": "rocket-chat"
     },
     {
       "id": "safari",
