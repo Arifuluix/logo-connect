@@ -1,5 +1,5 @@
 {
-  "version": "53a6f555",
+  "version": "e44b4a6a",
   "items": [
     {
       "id": "adobe",
@@ -980,6 +980,26 @@
         "full": "assets/browsers/samsunginternet/full.svg"
       },
       "brand": "samsung"
+    },
+    {
+      "id": "signal",
+      "name": "Signal",
+      "category": "Communication",
+      "tags": [
+        "signal",
+        "communication",
+        "messaging",
+        "chat",
+        "secure",
+        "privacy",
+        "encrypted",
+        "messenger"
+      ],
+      "assets": {
+        "mark": "assets/communication/signal/mark.svg",
+        "full": "assets/communication/signal/full.svg"
+      },
+      "brand": "signal"
     },
     {
       "id": "snapchat",
