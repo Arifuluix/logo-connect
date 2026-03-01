@@ -1,0 +1,25 @@
+{
+  "category": "Communication",
+  "items": [
+    {
+      "id": "goto-meeting",
+      "name": "GoTo Meeting",
+      "category": "communication",
+      "brand": "goto",
+      "tags": [
+        "goto meeting",
+        "goto",
+        "video conferencing",
+        "meeting",
+        "communication",
+        "webinar",
+        "remote work",
+        "collaboration"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
