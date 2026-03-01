@@ -1,5 +1,5 @@
 {
-  "version": "c0a3c76c",
+  "version": "f64415b3",
   "items": [
     {
       "id": "adobe",
@@ -325,6 +325,26 @@
       "assets": {
         "mark": "assets/browsers/chrome/mark.svg",
         "full": "assets/browsers/chrome/full.svg"
+      },
+      "brand": "google"
+    },
+    {
+      "id": "google-meet",
+      "name": "Google Meet",
+      "category": "Communication",
+      "tags": [
+        "google meet",
+        "meet",
+        "video call",
+        "video conferencing",
+        "communication",
+        "meeting",
+        "google",
+        "workspace"
+      ],
+      "assets": {
+        "mark": "assets/communication/googlemeet/mark.svg",
+        "full": "assets/communication/googlemeet/full.svg"
       },
       "brand": "google"
     },
