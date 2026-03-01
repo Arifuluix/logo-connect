@@ -1,0 +1,25 @@
+{
+  "category": "Communication",
+  "items": [
+    {
+      "id": "mattermost",
+      "name": "Mattermost",
+      "category": "communication",
+      "brand": "mattermost",
+      "tags": [
+        "mattermost",
+        "communication",
+        "team chat",
+        "messaging",
+        "collaboration",
+        "workspace",
+        "open source",
+        "chat"
+      ],
+      "assets": {
+        "mark": "mark.svg",
+        "full": "full.svg"
+      }
+    }
+  ]
+}
