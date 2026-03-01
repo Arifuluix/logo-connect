@@ -1,5 +1,5 @@
 {
-  "version": "3141436e",
+  "version": "2d00fac4",
   "items": [
     {
       "id": "adobe",
@@ -256,6 +256,26 @@
         "full": "assets/social/facebook/full.svg"
       },
       "brand": "facebook"
+    },
+    {
+      "id": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "category": "Communication",
+      "tags": [
+        "facebook messenger",
+        "messenger",
+        "meta",
+        "chat",
+        "messaging",
+        "communication",
+        "social",
+        "facebook"
+      ],
+      "assets": {
+        "mark": "assets/communication/messenger/mark.svg",
+        "full": "assets/communication/messenger/full.svg"
+      },
+      "brand": "messenger"
     },
     {
       "id": "mozilla-firefox",
